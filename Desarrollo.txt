@@ -1,0 +1,32 @@
+AAAAAA no hice commit del primer rexto de desarrollo y ahora este doc esta vacio. LLegando a mi casa subo el desarrollo 
+completito. Ahorita continuamos las practicas
+
+En la act 4 manejamos anova/kruskal-wallis
+en salario por posiscion
+
+tambien el salio por año con anova/kruskal-wallis
+el t test entre equipos del oeste y este. Estos estan dividos por la mitad osea 15
+y 15
+
+verificamos noramlidad y homogeneidad
+y hay los posthoc tests
+
+Con la practica 5 mmmm 
+Esta el heatmap visual, matriz de correlacion y correlaciones individales con alores p
+
+Los modelos lineales fueron
+Salary season+position
+Salary season
+Salary season + position_dummies
+
+ya de esto sacamos el r al cuadrado score para cada modelo el r2 ajusado
+MSE Y RMSE gracias a dios por inteligencia artificial que ahi aprendimos de este tema
+Anaalisis de residuales y pruebas de nnormalidad
+
+La practca 6 
+vimos el accuracy para posiciones
+acurracy para rangos
+un mejor k
+tambien un buen resumen de modelos
+4 graficos de Anaalisis
+y predicciones d epos y rank
