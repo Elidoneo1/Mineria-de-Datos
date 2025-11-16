@@ -1,0 +1,3 @@
+Problema,Mejor k,Accuracy Train (CV),Accuracy Test,N_Clases,Características
+Clasificación de Posiciones,1,0.2338074737050721,0.1675531914893617,7,"salary, season"
+Clasificación de Rangos,1,1.0,0.9947145877378436,5,"salary, season, rank"

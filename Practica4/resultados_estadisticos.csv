@@ -1,0 +1,4 @@
+Hipotesis,Prueba_Utilizada,P_value,Diferencia_Significativa
+Posiciones,Kruskal-Wallis/ANOVA,,False
+Años,Kruskal-Wallis/ANOVA,1.0630352718012012e-06,True
+Conferencias,T-test,0.31781613888222343,False
