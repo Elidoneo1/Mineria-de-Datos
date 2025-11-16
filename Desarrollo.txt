@@ -30,3 +30,29 @@ un mejor k
 tambien un buen resumen de modelos
 4 graficos de Anaalisis
 y predicciones d epos y rank
+
+Practica 7 clustering
+usamos el metodo del codo
+fue clustering por salario y año
+por pisiciones
+multidimensional
+
+usualmento los forward y centers salian con mas salario
+en esos años en la nba todos querian un centro dominante como shaq por lo
+que no me parece raro que los centros fueran bien pagados
+
+prac 8 forecasting
+dos modelos que era el simple de tendencia y otro mas complicado con lags y medias 
+movile
+El modelo avanzado fue mejor
+centros y forward seguian mostrando crecimiento salariasl
+todos incrementaban pero eventualmento mas lento
+viendo los contratos de hoy en dia comprobamos que esta erroneo ya 
+que son ridiculos los salarios que ahra se ven en la nba
+
+practica 9 
+aqui vimos cosas quizas no tan serias como los apellidos mas comunes en la nba
+que eran williams smith, johnson
+tambien vimos distintos terminos de basket y varios casos de jugadores quecomparten
+apellidos pero es posiblemente mera coincidencia
+Ha ocurrido que papas e hijos juean en la liga pero es raro. o hermano tambien.
