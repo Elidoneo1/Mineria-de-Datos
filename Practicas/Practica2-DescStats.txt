@@ -1,0 +1,34 @@
+JUGADOR
+Tiene de atributo su name y position
+Cardinalidad es mas de mil jugadores unicos
+Relaciones es que el jugador pertenece a un equipo y recibe salario
+
+EQUIPO
+Tiene de atributo el team_name
+Cardinalidad es que son 30 equipos en la nba(usualmente, ha habido cambios)
+Relaciones es que contratan jugadores y participa en las temporadas
+
+TEMPORADA
+Tiene de atributo el year
+Cardinalidad es 10 temporadas desde 2000 a 2009(Ha habido un boom en los salarios de los nba ultimamente
+y seria interesante hacer comparaciones. Ahora un jugador medio bueno hace lo que antes hacia Jordan en su prime)
+
+SALARIO
+Tiene de atributo el amount y rank
+Cardinalidad es de mas de 5000 registros
+Relaciones es que estan asociadas a un jugador y asociado a una temporada
+
+JUGADOR <----->  SALARIO <-----> TEMPORADA
+name(PK)         id(PK)          year(PK)
+position         player(FK)          l
+    l            season(FK)          l
+    l            amount              l
+    l            rank                l
+    v              l                 l
+ EQUIPO            l                 l
+ name(PK)   <-------                 l
+    ^ - - - -  - - - - - - - - - - - l
+    (JUGADOR-EQUIPO-TEMPORADA)
+
+TENEMOS QUE ARREGLAR COMO RECONOCEMOS LAS POSICIONES OSEA CAMBIAR DE C A CENTER. EN VEZ DE LAS ABREVIACIONES
+A LOS NOMBRES COMPLETOS

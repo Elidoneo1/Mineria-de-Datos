@@ -1,0 +1,7 @@
+Practica 1:
+Preparar el dataset
+
+Ocupo checar nulos y missings. Tambien checar outliers
+Normalizar posiciones de jugador y los nombres de los equipos a uno solo.
+Crear nuevas variables
+Tener un date time en vez de temporadas de nba
