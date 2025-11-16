@@ -1,0 +1,1881 @@
+salary,season,real_position,predicted_position,correct
+1962206,2007,Shooting Guard,Center,False
+27093017,2020,Center,Power Forward,False
+1344120,2015,Shooting Guard,Power Forward,False
+2894000,2004,Shooting Guard,Center,False
+1600520,2018,Point Guard,Guard,False
+8700000,2013,Power Forward,Power Forward,True
+14625000,2005,Shooting Guard,Shooting Guard,True
+2510000,2007,Shooting Guard,Small Forward,False
+854389,2013,Center,Center,True
+4000000,2006,Shooting Guard,Point Guard,False
+1620564,2020,Point Guard,Power Forward,False
+363000,2001,Point Guard,Guard,False
+5530080,2012,Point Guard,Center,False
+208509,2020,Guard,Power Forward,False
+3183000,2014,Power Forward,Shooting Guard,False
+13762775,2008,Center,Small Forward,False
+274573,2015,Center,Center,True
+12000000,2015,Forward,Point Guard,False
+3396250,2015,Small Forward,Power Forward,False
+38506482,2020,Point Guard,Point Guard,True
+2500000,2018,Guard,Small Forward,False
+8376194,2008,Shooting Guard,Shooting Guard,True
+577073,2009,Center,Power Forward,False
+10500000,2017,Power Forward,Small Forward,False
+2569260,2016,Center,Center,True
+10500000,2006,Shooting Guard,Forward,False
+9093000,2002,Point Guard,Shooting Guard,False
+1312611,2018,Guard,Guard,True
+4903000,2003,Power Forward,Center,False
+980431,2017,Center,Power Forward,False
+101966,2007,Power Forward,Small Forward,False
+3395760,2009,Center,Shooting Guard,False
+845059,2016,Small Forward,Power Forward,False
+6400000,2013,Power Forward,Power Forward,True
+1312611,2018,Center,Guard,False
+4319280,2014,Shooting Guard,Small Forward,False
+2250000,2012,Shooting Guard,Shooting Guard,True
+7727500,2013,Small Forward,Center,False
+19727000,2003,Small Forward,Power Forward,False
+183115,2020,Shooting Guard,Power Forward,False
+1416600,2008,Power Forward,Shooting Guard,False
+1429200,2010,Center,Guard,False
+235762,2015,Shooting Guard,Center,False
+1146337,2011,Power Forward,Shooting Guard,False
+18500000,2019,Guard,Shooting Guard,False
+1563120,2013,Center,Point Guard,False
+2700000,2003,Point Guard,Point Guard,True
+1050480,2010,Forward,Point Guard,False
+4000000,2017,Center,Power Forward,False
+1742760,2009,Small Forward,Small Forward,True
+20559599,2018,Power Forward,Shooting Guard,False
+5250000,2016,Center,Guard,False
+10865000,2002,Shooting Guard,Small Forward,False
+21323252,2017,Point Guard,Center,False
+816482,2015,Guard,Power Forward,False
+1378242,2019,Center,Small Forward,False
+11350000,2009,Center,Center,True
+4000000,2013,Point Guard,Power Forward,False
+3054000,2005,Center,Center,True
+6200000,2009,Center,Power Forward,False
+854389,2011,Center,Point Guard,False
+22916,2012,Shooting Guard,Shooting Guard,True
+797581,2009,Shooting Guard,Shooting Guard,True
+4926000,2003,Center,Center,True
+1227985,2015,Center,Shooting Guard,False
+14611570,2007,Shooting Guard,Point Guard,False
+5475113,2013,Shooting Guard,Power Forward,False
+915243,2015,Power Forward,Forward,False
+9682435,2013,Small Forward,Small Forward,True
+17092,2019,Guard,Shooting Guard,False
+6679867,2014,Shooting Guard,Guard,False
+14487500,2014,Center,Shooting Guard,False
+3344000,2016,Shooting Guard,Power Forward,False
+169340,2013,Point Guard,Power Forward,False
+1034956,2017,Center,Center,True
+1352181,2012,Power Forward,Center,False
+5158539,2016,Shooting Guard,Power Forward,False
+12000000,2001,Center,Center,True
+7590035,2018,Power Forward,Shooting Guard,False
+3940320,2017,Point Guard,Center,False
+2481000,2019,Shooting Guard,Forward,False
+20000000,2016,Guard,Point Guard,False
+543471,2018,Guard,Forward,False
+15101622,2007,Forward,Power Forward,False
+2898000,2017,Small Forward,Center,False
+5000000,2010,Point Guard,Guard,False
+500000,2009,Point Guard,Center,False
+13701250,2013,Power Forward,Power Forward,True
+32511624,2020,Point Guard,Small Forward,False
+5250000,2003,Forward,Power Forward,False
+4466040,2008,Power Forward,Center,False
+13000000,2012,Center,Center,True
+2800000,2000,Center,Small Forward,False
+8219009,2010,Guard,Guard,True
+320189,2014,Shooting Guard,Power Forward,False
+4767000,2020,Shooting Guard,Power Forward,False
+23180790,2015,Guard,Small Forward,False
+3344250,2012,Small Forward,Center,False
+14248000,2007,Power Forward,Point Guard,False
+650000,2017,Center,Point Guard,False
+1219590,2008,Shooting Guard,Center,False
+7750000,2007,Small Forward,Power Forward,False
+13762775,2008,Center,Small Forward,False
+412718,2007,Center,Shooting Guard,False
+16324500,2011,Guard,Center,False
+1200720,2015,Small Forward,Center,False
+12500000,2017,Center,Guard,False
+2320500,2011,Power Forward,Guard,False
+2557545,2014,Small Forward,Forward,False
+854389,2012,Small Forward,Shooting Guard,False
+17040000,2010,Shooting Guard,Small Forward,False
+9000000,2010,Small Forward,Center,False
+1620564,2020,Small Forward,Power Forward,False
+3200000,2015,Shooting Guard,Shooting Guard,True
+838464,2019,Forward,Shooting Guard,False
+1080480,2007,Shooting Guard,Center,False
+12100000,2018,Center,Small Forward,False
+5764000,2001,Power Forward,Center,False
+1125000,2006,Point Guard,Small Forward,False
+4590338,2013,Center,Small Forward,False
+3615960,2008,Point Guard,Power Forward,False
+11020000,2000,Point Guard,Power Forward,False
+1830720,2007,Power Forward,Small Forward,False
+8000000,2020,Shooting Guard,Center,False
+854389,2013,Shooting Guard,Center,False
+2461617,2006,Small Forward,Forward,False
+4325000,2011,Center,Shooting Guard,False
+11700000,2010,Center,Power Forward,False
+1109760,2015,Guard,Center,False
+719373,2006,Small Forward,Small Forward,True
+6250000,2004,Shooting Guard,Small Forward,False
+5000000,2010,Shooting Guard,Guard,False
+1020960,2013,Center,Small Forward,False
+825497,2010,Point Guard,Power Forward,False
+11111111,2019,Center,Shooting Guard,False
+4400000,2004,Center,Center,True
+473604,2013,Power Forward,Point Guard,False
+744551,2007,Small Forward,Point Guard,False
+6864200,2009,Shooting Guard,Center,False
+5585000,2009,Center,Small Forward,False
+19689000,2016,Power Forward,Power Forward,True
+4221000,2018,Point Guard,Center,False
+3398072,2011,Forward,Center,False
+975000,2001,Center,Forward,False
+2361360,2018,Point Guard,Small Forward,False
+650000,2017,Shooting Guard,Point Guard,False
+457588,2012,Small Forward,Small Forward,True
+4067000,2003,Power Forward,Point Guard,False
+9375000,2003,Center,Point Guard,False
+11593816,2008,Power Forward,Small Forward,False
+1512601,2019,Guard,Shooting Guard,False
+10125000,2001,Small Forward,Shooting Guard,False
+14343000,2003,Center,Point Guard,False
+1300000,2004,Point Guard,Power Forward,False
+194220,2019,Guard,Point Guard,False
+2135400,2008,Center,Shooting Guard,False
+925000,2017,Point Guard,Guard,False
+10625000,2002,Shooting Guard,Center,False
+10730000,2004,Small Forward,Point Guard,False
+4913000,2002,Point Guard,Small Forward,False
+11148760,2011,Small Forward,Power Forward,False
+13528090,2019,Center,Shooting Guard,False
+247991,2017,Guard,Shooting Guard,False
+10767,2010,Center,Center,True
+874636,2017,Power Forward,Guard,False
+835810,2006,Small Forward,Point Guard,False
+473604,2013,Power Forward,Point Guard,False
+980431,2018,Power Forward,Power Forward,True
+1352181,2013,Point Guard,Power Forward,False
+6600000,2003,Power Forward,Shooting Guard,False
+490180,2014,Point Guard,Point Guard,True
+862000,2004,Center,Point Guard,False
+2400000,2003,Small Forward,Power Forward,False
+5400000,2007,Power Forward,Point Guard,False
+3267120,2017,Power Forward,Point Guard,False
+845059,2016,Shooting Guard,Power Forward,False
+9631250,2019,Center,Point Guard,False
+3564000,2010,Point Guard,Small Forward,False
+2151068,2011,Small Forward,Point Guard,False
+1512840,2006,Center,Shooting Guard,False
+412718,2007,Point Guard,Shooting Guard,False
+1066920,2014,Center,Guard,False
+17545000,2012,Power Forward,Small Forward,False
+744551,2007,Shooting Guard,Point Guard,False
+2889000,2007,Shooting Guard,Center,False
+13125306,2016,Shooting Guard,Center,False
+2370000,2001,Point Guard,Small Forward,False
+466000,2002,Center,Guard,False
+22116750,2017,Center,Small Forward,False
+4550000,2006,Shooting Guard,Power Forward,False
+495399,2015,Forward,Guard,False
+4767000,2020,Small Forward,Power Forward,False
+872854,2018,Shooting Guard,Power Forward,False
+1214040,2010,Center,Point Guard,False
+2448240,2007,Shooting Guard,Point Guard,False
+7250000,2006,Small Forward,Shooting Guard,False
+6875000,2005,Small Forward,Shooting Guard,False
+35868,2011,Shooting Guard,Guard,False
+3900000,2012,Shooting Guard,Center,False
+7000000,2017,Point Guard,Shooting Guard,False
+5450000,2020,Forward,Guard,False
+525093,2016,Center,Shooting Guard,False
+2433824,2006,Power Forward,Forward,False
+486520,2019,Guard,Center,False
+1070000,2002,Shooting Guard,Center,False
+1442880,2013,Shooting Guard,Center,False
+398762,2006,Power Forward,Center,False
+1418160,2011,Point Guard,Point Guard,True
+1427040,2009,Shooting Guard,Power Forward,False
+5451600,2019,Power Forward,Small Forward,False
+2202240,2017,Center,Power Forward,False
+16192080,2010,Point Guard,Guard,False
+10075000,2006,Small Forward,Forward,False
+5250825,2013,Guard,Power Forward,False
+8477437,2013,Center,Point Guard,False
+261894,2016,Guard,Small Forward,False
+1620564,2020,Small Forward,Power Forward,False
+2105520,2008,Center,Shooting Guard,False
+5117880,2007,Shooting Guard,Center,False
+473604,2012,Forward,Point Guard,False
+473604,2013,Point Guard,Point Guard,True
+4000000,2009,Small Forward,Small Forward,True
+1229280,2008,Point Guard,Forward,False
+736420,2012,Shooting Guard,Small Forward,False
+2964840,2020,Shooting Guard,Power Forward,False
+1861920,2012,Power Forward,Center,False
+6235000,2002,Center,Power Forward,False
+3275280,2019,Shooting Guard,Point Guard,False
+736420,2012,Shooting Guard,Small Forward,False
+450000,2009,Power Forward,Small Forward,False
+7875000,2008,Power Forward,Center,False
+804131,2012,Point Guard,Power Forward,False
+107676,2015,Shooting Guard,Shooting Guard,True
+350189,2020,Small Forward,Small Forward,True
+9200000,2003,Small Forward,Point Guard,False
+76725,2017,Forward,Shooting Guard,False
+15750000,2006,Power Forward,Small Forward,False
+5192520,2016,Shooting Guard,Center,False
+816482,2015,Small Forward,Power Forward,False
+1815000,2011,Point Guard,Power Forward,False
+3208630,2018,Small Forward,Forward,False
+14000000,2012,Power Forward,Center,False
+711517,2009,Shooting Guard,Point Guard,False
+2721255,2012,Forward,Shooting Guard,False
+1933941,2018,Center,Center,True
+11500000,2006,Point Guard,Power Forward,False
+6364400,2007,Shooting Guard,Power Forward,False
+797581,2009,Point Guard,Shooting Guard,False
+8000000,2017,Power Forward,Small Forward,False
+5205000,2008,Power Forward,Center,False
+259526,2017,Point Guard,Guard,False
+1624000,2004,Shooting Guard,Power Forward,False
+13735000,2008,Power Forward,Small Forward,False
+1129200,2014,Forward,Point Guard,False
+1410000,2003,Power Forward,Power Forward,True
+2863920,2007,Forward,Center,False
+1618520,2020,Small Forward,Shooting Guard,False
+780000,2006,Center,Point Guard,False
+10000000,2017,Shooting Guard,Shooting Guard,True
+3093333,2009,Center,Shooting Guard,False
+3240000,2007,Center,Shooting Guard,False
+2862602,2012,Center,Small Forward,False
+18010791,2010,Power Forward,Forward,False
+762195,2011,Forward,Point Guard,False
+2000000,2006,Center,Center,True
+2709720,2012,Small Forward,Shooting Guard,False
+854389,2012,Small Forward,Shooting Guard,False
+27285000,2020,Center,Shooting Guard,False
+14444443,2011,Shooting Guard,Small Forward,False
+1620564,2020,Point Guard,Power Forward,False
+442114,2009,Shooting Guard,Shooting Guard,True
+3726600,2013,Shooting Guard,Point Guard,False
+2001167,2012,Power Forward,Point Guard,False
+276828,2017,Point Guard,Power Forward,False
+1618520,2020,Shooting Guard,Shooting Guard,True
+67135,2018,Center,Guard,False
+12250000,2009,Point Guard,Shooting Guard,False
+1156320,2011,Small Forward,Point Guard,False
+6006600,2017,Small Forward,Point Guard,False
+48559,2010,Power Forward,Power Forward,True
+8500000,2012,Power Forward,Point Guard,False
+8640000,2009,Shooting Guard,Power Forward,False
+1606080,2015,Guard,Guard,True
+825497,2011,Center,Point Guard,False
+490180,2014,Shooting Guard,Point Guard,False
+2541000,2012,Power Forward,Point Guard,False
+4171200,2008,Small Forward,Point Guard,False
+6300000,2020,Guard,Point Guard,False
+899880,2007,Point Guard,Small Forward,False
+2250000,2013,Shooting Guard,Power Forward,False
+825497,2012,Center,Shooting Guard,False
+1350000,2012,Point Guard,Center,False
+9367200,2018,Shooting Guard,Shooting Guard,True
+854389,2011,Center,Point Guard,False
+2923000,2003,Forward,Shooting Guard,False
+874636,2017,Power Forward,Guard,False
+815615,2018,Shooting Guard,Small Forward,False
+2564753,2020,Center,Point Guard,False
+14631250,2019,Point Guard,Forward,False
+1656092,2019,Guard,Point Guard,False
+543471,2017,Point Guard,Point Guard,True
+4763760,2013,Shooting Guard,Center,False
+788872,2012,Shooting Guard,Small Forward,False
+10623288,2006,Center,Forward,False
+2016000,2013,Point Guard,Point Guard,True
+1890000,2008,Center,Shooting Guard,False
+1817141,2007,Power Forward,Power Forward,True
+5356440,2019,Point Guard,Small Forward,False
+1728000,2012,Shooting Guard,Center,False
+12078652,2017,Forward,Center,False
+10000000,2008,Point Guard,Shooting Guard,False
+18668431,2014,Point Guard,Guard,False
+762195,2013,Point Guard,Center,False
+3516960,2010,Power Forward,Power Forward,True
+278912,2008,Shooting Guard,Point Guard,False
+465000,2002,Center,Power Forward,False
+598000,2001,Power Forward,Small Forward,False
+22642350,2018,Center,Center,True
+1938840,2016,Power Forward,Power Forward,True
+12553571,2020,Point Guard,Shooting Guard,False
+10605600,2020,Point Guard,Shooting Guard,False
+900000,2014,Forward,Forward,True
+4441200,2019,Center,Center,True
+4053446,2016,Guard,Forward,False
+305551,2012,Forward,Center,False
+442114,2009,Point Guard,Shooting Guard,False
+18077903,2009,Small Forward,Forward,False
+915852,2012,Point Guard,Power Forward,False
+11954545,2014,Point Guard,Power Forward,False
+442114,2009,Shooting Guard,Shooting Guard,True
+2000000,2014,Center,Center,True
+1629120,2008,Small Forward,Small Forward,True
+94154,2013,Shooting Guard,Guard,False
+1416852,2020,Shooting Guard,Shooting Guard,True
+1536960,2014,Guard,Small Forward,False
+29230769,2019,Power Forward,Small Forward,False
+19317326,2015,Small Forward,Small Forward,True
+2732000,2015,Shooting Guard,Point Guard,False
+5899000,2005,Power Forward,Power Forward,True
+5904261,2014,Center,Center,True
+815615,2018,Center,Small Forward,False
+11300000,2009,Shooting Guard,Point Guard,False
+3937000,2001,Forward,Shooting Guard,False
+8000000,2019,Shooting Guard,Shooting Guard,True
+16663575,2017,Shooting Guard,Shooting Guard,True
+3000000,2015,Power Forward,Shooting Guard,False
+2795000,2019,Shooting Guard,Center,False
+9000000,2010,Center,Center,True
+1947240,2010,Point Guard,Shooting Guard,False
+854389,2012,Point Guard,Shooting Guard,False
+21000000,2009,Center,Shooting Guard,False
+8113930,2020,Point Guard,Shooting Guard,False
+2242920,2007,Small Forward,Shooting Guard,False
+5632200,2008,Power Forward,Power Forward,True
+2689920,2020,Shooting Guard,Power Forward,False
+1512601,2020,Forward,Guard,False
+3000000,2010,Power Forward,Small Forward,False
+862000,2015,Guard,Point Guard,False
+2659800,2018,Power Forward,Point Guard,False
+5050000,2009,Shooting Guard,Point Guard,False
+5697054,2019,Power Forward,Small Forward,False
+548000,2001,Forward,Center,False
+96406,2018,Guard,Guard,True
+18063850,2018,Center,Shooting Guard,False
+2016692,2011,Guard,Shooting Guard,False
+1025000,2000,Forward,Small Forward,False
+4100000,2010,Small Forward,Shooting Guard,False
+2300000,2013,Point Guard,Forward,False
+591000,2002,Shooting Guard,Forward,False
+151587,2019,Shooting Guard,Power Forward,False
+6031800,2010,Small Forward,Point Guard,False
+1544951,2019,Center,Guard,False
+16440000,2008,Shooting Guard,Point Guard,False
+736420,2012,Power Forward,Small Forward,False
+1189200,2006,Guard,Power Forward,False
+1656092,2020,Guard,Guard,True
+711517,2009,Point Guard,Point Guard,True
+3282003,2014,Shooting Guard,Small Forward,False
+715000,2002,Small Forward,Power Forward,False
+4950000,2001,Power Forward,Point Guard,False
+947276,2016,Shooting Guard,Forward,False
+650686,2012,Shooting Guard,Point Guard,False
+543471,2017,Shooting Guard,Point Guard,False
+6698565,2013,Center,Power Forward,False
+817000,2008,Point Guard,Center,False
+80703,2012,Shooting Guard,Shooting Guard,True
+2475000,2002,Point Guard,Point Guard,True
+4420000,2014,Point Guard,Center,False
+770610,2008,Point Guard,Point Guard,True
+211084,2011,Shooting Guard,Power Forward,False
+38199000,2020,Small Forward,Point Guard,False
+736420,2011,Shooting Guard,Shooting Guard,True
+457418,2019,Shooting Guard,Power Forward,False
+151585,2013,Forward,Power Forward,False
+525093,2016,Small Forward,Shooting Guard,False
+16500000,2013,Forward,Small Forward,False
+2800000,2004,Small Forward,Small Forward,True
+4236287,2016,Point Guard,Center,False
+1760000,2002,Small Forward,Point Guard,False
+457588,2013,Small Forward,Point Guard,False
+6696720,2011,Center,Shooting Guard,False
+6300000,2002,Small Forward,Power Forward,False
+14410581,2009,Power Forward,Power Forward,True
+9206349,2008,Power Forward,Small Forward,False
+1699236,2020,Small Forward,Power Forward,False
+2955840,2018,Power Forward,Center,False
+874636,2017,Small Forward,Guard,False
+11550000,2018,Shooting Guard,Power Forward,False
+5525000,2007,Point Guard,Power Forward,False
+765000,2002,Guard,Power Forward,False
+6480000,2006,Shooting Guard,Power Forward,False
+9281,2014,Small Forward,Power Forward,False
+816482,2015,Shooting Guard,Power Forward,False
+2950200,2006,Point Guard,Small Forward,False
+762195,2013,Center,Center,True
+548000,2001,Center,Center,True
+9757440,2020,Small Forward,Point Guard,False
+1619280,2006,Center,Point Guard,False
+1905360,2014,Power Forward,Guard,False
+8000000,2020,Point Guard,Center,False
+9336000,2001,Power Forward,Shooting Guard,False
+427163,2008,Shooting Guard,Point Guard,False
+7169000,2004,Shooting Guard,Center,False
+1020960,2012,Small Forward,Point Guard,False
+1654440,2012,Guard,Small Forward,False
+12500000,2012,Guard,Power Forward,False
+2090000,2013,Forward,Power Forward,False
+2500000,2014,Point Guard,Forward,False
+10116576,2020,Shooting Guard,Shooting Guard,True
+867720,2006,Power Forward,Center,False
+6000000,2014,Shooting Guard,Center,False
+2798040,2013,Small Forward,Shooting Guard,False
+854389,2013,Shooting Guard,Center,False
+1826300,2018,Center,Power Forward,False
+5625000,2003,Small Forward,Point Guard,False
+1352640,2014,Center,Point Guard,False
+3000000,2015,Center,Shooting Guard,False
+490000,2002,Forward,Small Forward,False
+845059,2016,Guard,Power Forward,False
+736420,2013,Point Guard,Shooting Guard,False
+3321030,2020,Power Forward,Small Forward,False
+1709280,2009,Small Forward,Point Guard,False
+10361446,2014,Center,Power Forward,False
+5731080,2012,Power Forward,Point Guard,False
+6217617,2010,Point Guard,Shooting Guard,False
+6600000,2004,Power Forward,Small Forward,False
+700000,2009,Guard,Point Guard,False
+1413480,2015,Center,Center,True
+2763450,2012,Power Forward,Power Forward,True
+2500000,2015,Power Forward,Power Forward,True
+2929467,2007,Point Guard,Point Guard,True
+4161000,2020,Small Forward,Center,False
+845059,2016,Point Guard,Power Forward,False
+25250000,2018,Center,Center,True
+2177114,2006,Guard,Power Forward,False
+980431,2018,Center,Power Forward,False
+1737145,2020,Small Forward,Point Guard,False
+1416852,2020,Small Forward,Shooting Guard,False
+3600000,2011,Point Guard,Center,False
+1471382,2018,Center,Shooting Guard,False
+2813280,2020,Power Forward,Center,False
+67844,2008,Guard,Power Forward,False
+21165675,2017,Center,Center,True
+25467250,2019,Small Forward,Power Forward,False
+4818000,2011,Power Forward,Small Forward,False
+2148360,2016,Point Guard,Point Guard,True
+10629213,2015,Point Guard,Center,False
+2526840,2018,Power Forward,Power Forward,True
+1191480,2017,Forward,Small Forward,False
+3240000,2011,Small Forward,Small Forward,True
+1544951,2020,Forward,Guard,False
+59686,2015,Forward,Point Guard,False
+3000000,2011,Shooting Guard,Power Forward,False
+1224000,2000,Guard,Guard,True
+1986960,2007,Center,Center,True
+9713484,2014,Shooting Guard,Point Guard,False
+3194400,2010,Small Forward,Center,False
+406340,2007,Power Forward,Shooting Guard,False
+543471,2018,Shooting Guard,Forward,False
+1350000,2011,Point Guard,Center,False
+3966207,2008,Point Guard,Power Forward,False
+11710456,2016,Shooting Guard,Forward,False
+1378242,2019,Power Forward,Small Forward,False
+1512601,2019,Center,Shooting Guard,False
+2200000,2001,Small Forward,Forward,False
+6466600,2010,Center,Point Guard,False
+4063000,2004,Point Guard,Small Forward,False
+4100000,2007,Point Guard,Point Guard,True
+2753218,2007,Point Guard,Center,False
+1330000,2014,Power Forward,Point Guard,False
+4000000,2008,Power Forward,Point Guard,False
+9000000,2019,Shooting Guard,Point Guard,False
+22116750,2017,Small Forward,Small Forward,True
+3500000,2019,Small Forward,Point Guard,False
+1500000,2020,Small Forward,Point Guard,False
+740560,2014,Shooting Guard,Point Guard,False
+1449187,2016,Small Forward,Forward,False
+590000,2002,Point Guard,Guard,False
+1029873,2006,Point Guard,Power Forward,False
+4200000,2005,Point Guard,Power Forward,False
+969600,2006,Shooting Guard,Shooting Guard,True
+5453280,2020,Center,Guard,False
+7100000,2011,Point Guard,Shooting Guard,False
+5450000,2019,Forward,Small Forward,False
+13325000,2008,Guard,Forward,False
+1500000,2016,Guard,Shooting Guard,False
+457588,2010,Point Guard,Shooting Guard,False
+633974,2015,Point Guard,Power Forward,False
+5765000,2011,Power Forward,Center,False
+744551,2007,Power Forward,Point Guard,False
+12000000,2006,Guard,Center,False
+138404,2014,Power Forward,Power Forward,True
+874636,2017,Guard,Guard,True
+12072000,2003,Shooting Guard,Shooting Guard,True
+2949000,2005,Center,Power Forward,False
+835810,2006,Center,Point Guard,False
+855000,2016,Small Forward,Power Forward,False
+2400000,2002,Forward,Shooting Guard,False
+1586000,2004,Forward,Center,False
+1029873,2006,Center,Power Forward,False
+10500000,2020,Shooting Guard,Shooting Guard,True
+4000000,2013,Small Forward,Power Forward,False
+1227985,2015,Power Forward,Shooting Guard,False
+9641000,2001,Center,Shooting Guard,False
+4096950,2017,Point Guard,Small Forward,False
+1015696,2017,Guard,Center,False
+980431,2018,Point Guard,Power Forward,False
+1544951,2018,Center,Point Guard,False
+21165675,2017,Center,Center,True
+854389,2013,Shooting Guard,Center,False
+1618520,2020,Point Guard,Shooting Guard,False
+473604,2013,Point Guard,Point Guard,True
+1910000,2009,Shooting Guard,Small Forward,False
+1048800,2007,Point Guard,Power Forward,False
+2769300,2009,Center,Center,True
+854389,2013,Shooting Guard,Center,False
+3520000,2001,Power Forward,Forward,False
+13565218,2019,Center,Shooting Guard,False
+854389,2013,Shooting Guard,Center,False
+289755,2016,Center,Center,True
+1645357,2020,Shooting Guard,Shooting Guard,True
+1512601,2020,Guard,Guard,True
+980431,2017,Small Forward,Power Forward,False
+11235955,2016,Power Forward,Forward,False
+490180,2013,Power Forward,Shooting Guard,False
+2700000,2003,Power Forward,Point Guard,False
+825497,2010,Power Forward,Power Forward,True
+2419000,2002,Center,Guard,False
+1042320,2012,Power Forward,Small Forward,False
+1318920,2010,Point Guard,Power Forward,False
+1378242,2019,Guard,Small Forward,False
+6760563,2014,Shooting Guard,Guard,False
+6000000,2019,Point Guard,Power Forward,False
+1709719,2016,Forward,Shooting Guard,False
+915852,2012,Forward,Power Forward,False
+11250000,2002,Power Forward,Shooting Guard,False
+980431,2017,Shooting Guard,Power Forward,False
+850000,2008,Center,Power Forward,False
+7262500,2011,Power Forward,Point Guard,False
+3563600,2013,Center,Forward,False
+12428571,2020,Point Guard,Guard,False
+5885000,2005,Power Forward,Center,False
+543471,2018,Shooting Guard,Forward,False
+1238640,2006,Small Forward,Shooting Guard,False
+1485000,2012,Small Forward,Forward,False
+1112280,2015,Shooting Guard,Center,False
+14625000,2005,Small Forward,Shooting Guard,False
+160244,2010,Shooting Guard,Power Forward,False
+1600000,2010,Small Forward,Small Forward,True
+3477600,2018,Center,Center,True
+1496640,2010,Center,Shooting Guard,False
+4500000,2002,Center,Power Forward,False
+6322320,2012,Power Forward,Small Forward,False
+5250000,2010,Shooting Guard,Small Forward,False
+1887840,2015,Small Forward,Power Forward,False
+1300000,2003,Point Guard,Small Forward,False
+3844760,2019,Shooting Guard,Point Guard,False
+13520500,2010,Point Guard,Point Guard,True
+9600000,2019,Point Guard,Point Guard,True
+442114,2009,Small Forward,Shooting Guard,False
+2400000,2000,Forward,Power Forward,False
+5393300,2007,Small Forward,Point Guard,False
+1000497,2010,Point Guard,Center,False
+2526840,2019,Power Forward,Shooting Guard,False
+24119025,2018,Power Forward,Power Forward,True
+15500000,2008,Power Forward,Power Forward,True
+7600000,2012,Shooting Guard,Small Forward,False
+4500000,2016,Forward,Shooting Guard,False
+398762,2006,Shooting Guard,Center,False
+1312611,2018,Guard,Guard,True
+1122000,2008,Point Guard,Power Forward,False
+8603633,2012,Power Forward,Power Forward,True
+2650000,2009,Shooting Guard,Center,False
+781000,2002,Power Forward,Small Forward,False
+1078800,2014,Center,Small Forward,False
+2000000,2015,Center,Small Forward,False
+8360000,2015,Shooting Guard,Guard,False
+2678000,2001,Power Forward,Forward,False
+1959577,2011,Guard,Small Forward,False
+1270964,2016,Center,Power Forward,False
+2162880,2006,Forward,Power Forward,False
+650000,2008,Point Guard,Power Forward,False
+1953120,2015,Small Forward,Forward,False
+1349383,2020,Guard,Forward,False
+13500000,2013,Power Forward,Center,False
+12275000,2008,Shooting Guard,Forward,False
+507336,2015,Forward,Power Forward,False
+16720000,2020,Center,Small Forward,False
+4106000,2013,Small Forward,Small Forward,True
+3146068,2015,Forward,Small Forward,False
+1138500,2006,Small Forward,Power Forward,False
+12046000,2003,Shooting Guard,Shooting Guard,True
+1750000,2014,Small Forward,Small Forward,True
+17638063,2017,Small Forward,Point Guard,False
+9367200,2019,Shooting Guard,Shooting Guard,True
+711517,2009,Power Forward,Point Guard,False
+854389,2011,Power Forward,Point Guard,False
+398762,2006,Shooting Guard,Center,False
+3046200,2019,Shooting Guard,Point Guard,False
+4174000,2002,Point Guard,Center,False
+719373,2006,Point Guard,Small Forward,False
+2536898,2019,Point Guard,Power Forward,False
+5200000,2017,Shooting Guard,Guard,False
+1544951,2020,Guard,Guard,True
+1869600,2009,Small Forward,Power Forward,False
+1500000,2001,Shooting Guard,Forward,False
+1399507,2012,Shooting Guard,Center,False
+13865000,2006,Power Forward,Power Forward,True
+725000,2010,Shooting Guard,Small Forward,False
+825497,2011,Shooting Guard,Point Guard,False
+1223166,2012,Power Forward,Point Guard,False
+2208960,2008,Point Guard,Center,False
+997547,2018,Guard,Guard,True
+14148596,2009,Power Forward,Guard,False
+2250000,2001,Power Forward,Center,False
+412718,2007,Shooting Guard,Shooting Guard,True
+1643040,2017,Point Guard,Shooting Guard,False
+1714800,2010,Guard,Center,False
+2978000,2009,Center,Small Forward,False
+5700000,2004,Center,Center,True
+6600000,2002,Power Forward,Power Forward,True
+1100602,2016,Small Forward,Forward,False
+6792500,2015,Shooting Guard,Shooting Guard,True
+473604,2011,Center,Forward,False
+10607143,2018,Small Forward,Point Guard,False
+788872,2014,Power Forward,Small Forward,False
+22875000,2016,Power Forward,Center,False
+2368327,2017,Small Forward,Center,False
+815615,2018,Point Guard,Small Forward,False
+2250000,2009,Point Guard,Center,False
+5400000,2002,Small Forward,Guard,False
+825497,2010,Point Guard,Power Forward,False
+175000,2018,Point Guard,Center,False
+26011913,2019,Small Forward,Shooting Guard,False
+12200000,2001,Point Guard,Forward,False
+806452,2009,Shooting Guard,Center,False
+1952760,2019,Center,Point Guard,False
+898310,2020,Shooting Guard,Small Forward,False
+1285200,2008,Point Guard,Small Forward,False
+973440,2007,Power Forward,Shooting Guard,False
+3000000,2007,Small Forward,Point Guard,False
+4819000,2000,Center,Power Forward,False
+4899293,2013,Center,Point Guard,False
+3635760,2020,Shooting Guard,Small Forward,False
+18109175,2019,Point Guard,Shooting Guard,False
+1875000,2006,Small Forward,Center,False
+543471,2017,Center,Point Guard,False
+1071720,2011,Small Forward,Point Guard,False
+650000,2017,Small Forward,Point Guard,False
+1131000,2001,Small Forward,Forward,False
+12800562,2019,Small Forward,Center,False
+744551,2007,Small Forward,Point Guard,False
+7806971,2017,Forward,Small Forward,False
+8368182,2013,Center,Center,True
+3375000,2000,Power Forward,Power Forward,True
+884293,2014,Point Guard,Forward,False
+32088932,2018,Power Forward,Power Forward,True
+2947305,2018,Center,Center,True
+473604,2013,Small Forward,Point Guard,False
+4661280,2019,Forward,Center,False
+6066000,2002,Shooting Guard,Center,False
+6500000,2014,Forward,Shooting Guard,False
+1416852,2020,Point Guard,Shooting Guard,False
+4580735,2010,Power Forward,Point Guard,False
+2925000,2004,Point Guard,Power Forward,False
+1033342,2012,Small Forward,Small Forward,True
+523000,2001,Point Guard,Point Guard,True
+770610,2008,Power Forward,Point Guard,False
+5958750,2015,Power Forward,Shooting Guard,False
+2716000,2000,Forward,Point Guard,False
+337238,2007,Shooting Guard,Center,False
+8685500,2009,Small Forward,Shooting Guard,False
+915243,2015,Shooting Guard,Forward,False
+473604,2011,Center,Forward,False
+2061720,2007,Center,Forward,False
+4065811,2006,Power Forward,Center,False
+3745800,2008,Power Forward,Shooting Guard,False
+543471,2017,Small Forward,Point Guard,False
+15300000,2013,Power Forward,Shooting Guard,False
+3000004,2010,Power Forward,Small Forward,False
+898200,2006,Center,Center,True
+14000000,2000,Power Forward,Small Forward,False
+1312611,2018,Small Forward,Guard,False
+980431,2018,Center,Power Forward,False
+4992000,2003,Forward,Power Forward,False
+5000000,2011,Shooting Guard,Forward,False
+1925000,2000,Guard,Center,False
+1015696,2017,Power Forward,Center,False
+22642350,2018,Center,Center,True
+543471,2017,Power Forward,Point Guard,False
+213051,2008,Shooting Guard,Point Guard,False
+3000000,2012,Power Forward,Power Forward,True
+5218622,2007,Center,Center,True
+27739975,2018,Small Forward,Power Forward,False
+854389,2012,Point Guard,Shooting Guard,False
+719373,2006,Small Forward,Small Forward,True
+475000,2013,Power Forward,Point Guard,False
+1622617,2013,Center,Small Forward,False
+19067500,2013,Power Forward,Small Forward,False
+797581,2009,Power Forward,Shooting Guard,False
+2056920,2016,Forward,Shooting Guard,False
+18673000,2013,Guard,Small Forward,False
+4000000,2011,Shooting Guard,Small Forward,False
+1977000,2020,Power Forward,Power Forward,True
+5285394,2019,Center,Small Forward,False
+14041096,2018,Power Forward,Power Forward,True
+815615,2018,Guard,Small Forward,False
+4030000,2003,Center,Center,True
+1010040,2006,Center,Shooting Guard,False
+3135000,2013,Small Forward,Center,False
+350189,2020,Point Guard,Small Forward,False
+5318313,2017,Center,Shooting Guard,False
+797581,2009,Shooting Guard,Shooting Guard,True
+947276,2016,Center,Forward,False
+825497,2012,Shooting Guard,Shooting Guard,True
+16441500,2014,Power Forward,Small Forward,False
+7750000,2003,Small Forward,Center,False
+7794000,2004,Shooting Guard,Small Forward,False
+2169857,2011,Shooting Guard,Power Forward,False
+2288205,2016,Shooting Guard,Forward,False
+2157097,2007,Small Forward,Power Forward,False
+854389,2012,Power Forward,Shooting Guard,False
+1551659,2017,Small Forward,Power Forward,False
+507336,2015,Forward,Power Forward,False
+3857040,2014,Center,Small Forward,False
+736420,2011,Small Forward,Shooting Guard,False
+7333333,2020,Shooting Guard,Small Forward,False
+595122,2020,Small Forward,Power Forward,False
+2900000,2016,Center,Power Forward,False
+3627842,2019,Center,Power Forward,False
+543471,2017,Power Forward,Point Guard,False
+525093,2016,Small Forward,Shooting Guard,False
+1867320,2011,Center,Power Forward,False
+5312000,2003,Point Guard,Power Forward,False
+1378242,2019,Guard,Small Forward,False
+25434262,2018,Center,Center,True
+11250000,2016,Center,Forward,False
+1007026,2016,Power Forward,Guard,False
+711517,2009,Center,Point Guard,False
+884881,2013,Shooting Guard,Small Forward,False
+543471,2017,Guard,Point Guard,False
+1535880,2016,Small Forward,Small Forward,True
+2077000,2015,Power Forward,Point Guard,False
+20421546,2019,Power Forward,Power Forward,True
+854389,2011,Power Forward,Point Guard,False
+2568360,2014,Point Guard,Forward,False
+1471382,2018,Center,Shooting Guard,False
+981348,2016,Small Forward,Forward,False
+14087500,2019,Power Forward,Center,False
+1096000,2003,Forward,Shooting Guard,False
+1042320,2011,Guard,Point Guard,False
+854389,2011,Center,Point Guard,False
+1149000,2014,Small Forward,Shooting Guard,False
+945000,2017,Guard,Point Guard,False
+1471382,2018,Forward,Shooting Guard,False
+770610,2008,Power Forward,Point Guard,False
+854389,2013,Power Forward,Center,False
+854389,2012,Small Forward,Shooting Guard,False
+3674584,2007,Center,Power Forward,False
+5455236,2019,Guard,Small Forward,False
+7200000,2000,Shooting Guard,Shooting Guard,True
+6666667,2017,Center,Point Guard,False
+4250000,2011,Shooting Guard,Power Forward,False
+2407560,2018,Power Forward,Center,False
+3000000,2011,Shooting Guard,Power Forward,False
+1731960,2011,Power Forward,Center,False
+4662000,2008,Center,Shooting Guard,False
+490528,2007,Power Forward,Shooting Guard,False
+2873520,2009,Power Forward,Small Forward,False
+7488372,2018,Shooting Guard,Center,False
+5400000,2001,Center,Center,True
+2475840,2020,Small Forward,Guard,False
+854389,2012,Point Guard,Shooting Guard,False
+3666000,2002,Guard,Center,False
+625840,2008,Center,Power Forward,False
+874636,2018,Power Forward,Power Forward,True
+13500000,2004,Shooting Guard,Power Forward,False
+8000000,2003,Power Forward,Small Forward,False
+14693906,2014,Center,Power Forward,False
+6448900,2009,Small Forward,Point Guard,False
+10625000,2003,Guard,Power Forward,False
+4608,2018,Power Forward,Forward,False
+4790000,2011,Small Forward,Center,False
+7019698,2019,Shooting Guard,Power Forward,False
+7191011,2015,Point Guard,Shooting Guard,False
+7238606,2015,Point Guard,Shooting Guard,False
+612000,2003,Center,Shooting Guard,False
+3206000,2008,Small Forward,Center,False
+1674480,2015,Guard,Point Guard,False
+10105855,2014,Small Forward,Power Forward,False
+10000000,2009,Center,Shooting Guard,False
+1471382,2018,Guard,Shooting Guard,False
+1000000,2002,Guard,Forward,False
+816482,2015,Point Guard,Power Forward,False
+6611571,2012,Point Guard,Center,False
+1232713,2013,Shooting Guard,Forward,False
+762195,2011,Small Forward,Point Guard,False
+7612172,2017,Shooting Guard,Power Forward,False
+250750,2016,Point Guard,Power Forward,False
+4626960,2016,Center,Center,True
+8000000,2018,Guard,Power Forward,False
+344036,2015,Small Forward,Power Forward,False
+6000000,2006,Power Forward,Shooting Guard,False
+457588,2010,Small Forward,Shooting Guard,False
+12000000,2001,Guard,Center,False
+1312611,2018,Small Forward,Guard,False
+797581,2009,Point Guard,Shooting Guard,False
+797000,2001,Power Forward,Forward,False
+773976,2013,Small Forward,Guard,False
+43703,2010,Power Forward,Small Forward,False
+207798,2017,Point Guard,Power Forward,False
+3000000,2002,Point Guard,Shooting Guard,False
+2210000,2007,Center,Shooting Guard,False
+1750000,2007,Shooting Guard,Center,False
+2535720,2007,Shooting Guard,Small Forward,False
+21587579,2019,Power Forward,Power Forward,True
+4340000,2014,Power Forward,Center,False
+15000000,2020,Power Forward,Small Forward,False
+28942830,2020,Power Forward,Point Guard,False
+2350820,2013,Forward,Center,False
+1702800,2019,Shooting Guard,Power Forward,False
+825497,2010,Power Forward,Power Forward,True
+11495000,2011,Center,Center,True
+4650000,2015,Point Guard,Center,False
+690000,2002,Point Guard,Power Forward,False
+2678640,2013,Point Guard,Shooting Guard,False
+90000,2001,Point Guard,Guard,False
+3119000,2002,Point Guard,Power Forward,False
+5000000,2002,Forward,Small Forward,False
+12500000,2020,Center,Shooting Guard,False
+14200000,2010,Forward,Power Forward,False
+412718,2007,Power Forward,Shooting Guard,False
+5200000,2002,Guard,Small Forward,False
+587000,2003,Small Forward,Center,False
+637000,2003,Center,Center,True
+6495000,2002,Shooting Guard,Power Forward,False
+2000000,2000,Forward,Forward,True
+8000000,2016,Point Guard,Shooting Guard,False
+1634640,2019,Shooting Guard,Shooting Guard,True
+5900400,2006,Power Forward,Small Forward,False
+14382023,2017,Center,Guard,False
+11566265,2013,Power Forward,Small Forward,False
+880000,2001,Shooting Guard,Power Forward,False
+507336,2015,Forward,Power Forward,False
+12100000,2010,Point Guard,Point Guard,True
+1725000,2002,Center,Point Guard,False
+4810000,2000,Forward,Power Forward,False
+7727280,2014,Small Forward,Center,False
+1809840,2013,Small Forward,Small Forward,True
+304000,2002,Center,Center,True
+5000000,2017,Center,Forward,False
+3800000,2014,Power Forward,Shooting Guard,False
+543471,2017,Shooting Guard,Point Guard,False
+1544951,2019,Small Forward,Guard,False
+3997000,2001,Power Forward,Guard,False
+2668000,2003,Shooting Guard,Small Forward,False
+3937000,2000,Forward,Shooting Guard,False
+1600520,2019,Center,Point Guard,False
+1990000,2013,Center,Power Forward,False
+1300000,2002,Forward,Point Guard,False
+1681000,2003,Center,Forward,False
+7400000,2018,Center,Small Forward,False
+1262275,2009,Power Forward,Point Guard,False
+815615,2018,Guard,Small Forward,False
+3013512,2013,Center,Forward,False
+1972000,2011,Point Guard,Power Forward,False
+8500000,2016,Power Forward,Center,False
+1071720,2010,Small Forward,Point Guard,False
+7281818,2011,Center,Point Guard,False
+1693000,2001,Forward,Small Forward,False
+8299670,2006,Center,Center,True
+980431,2017,Small Forward,Power Forward,False
+1656092,2019,Guard,Point Guard,False
+4260000,2009,Point Guard,Point Guard,True
+2898000,2017,Center,Center,True
+3000000,2012,Power Forward,Power Forward,True
+525093,2016,Small Forward,Shooting Guard,False
+1110120,2011,Shooting Guard,Power Forward,False
+3995003,2008,Guard,Point Guard,False
+8000000,2015,Guard,Point Guard,False
+13151000,2001,Small Forward,Center,False
+3073000,2002,Guard,Small Forward,False
+12115500,2010,Center,Point Guard,False
+1130000,2008,Power Forward,Power Forward,True
+15004000,2000,Center,Power Forward,False
+1063865,2012,Guard,Small Forward,False
+788872,2014,Small Forward,Small Forward,True
+2100000,2001,Guard,Power Forward,False
+804131,2011,Point Guard,Power Forward,False
+17177795,2013,Point Guard,Center,False
+13488378,2008,Guard,Forward,False
+1722000,2000,Shooting Guard,Point Guard,False
+3862600,2009,Center,Shooting Guard,False
+1570920,2007,Small Forward,Point Guard,False
+3060000,2014,Forward,Power Forward,False
+3726000,2004,Forward,Point Guard,False
+9075000,2010,Guard,Forward,False
+1921320,2017,Center,Center,True
+1571000,2002,Center,Power Forward,False
+3792112,2009,Power Forward,Small Forward,False
+4702500,2014,Center,Point Guard,False
+12072000,2003,Small Forward,Shooting Guard,False
+3529555,2020,Power Forward,Small Forward,False
+6505320,2013,Shooting Guard,Power Forward,False
+947907,2014,Center,Small Forward,False
+20445779,2019,Small Forward,Power Forward,False
+3000000,2006,Shooting Guard,Power Forward,False
+884879,2015,Power Forward,Guard,False
+2470357,2019,Small Forward,Forward,False
+541000,2002,Power Forward,Center,False
+26540100,2017,Power Forward,Shooting Guard,False
+770610,2008,Power Forward,Point Guard,False
+10666000,2001,Shooting Guard,Center,False
+3945000,2014,Center,Small Forward,False
+2480000,2002,Center,Point Guard,False
+4904000,2003,Power Forward,Center,False
+1703649,2019,Shooting Guard,Power Forward,False
+295327,2016,Small Forward,Small Forward,True
+19067500,2014,Power Forward,Small Forward,False
+6927480,2020,Power Forward,Small Forward,False
+600000,2017,Small Forward,Power Forward,False
+2329545,2012,Point Guard,Shooting Guard,False
+1050000,2019,Shooting Guard,Guard,False
+4500000,2007,Shooting Guard,Center,False
+1000000,2002,Guard,Forward,False
+915243,2015,Guard,Forward,False
+5765000,2011,Power Forward,Center,False
+5285394,2020,Center,Point Guard,False
+825497,2011,Small Forward,Point Guard,False
+423000,2001,Center,Center,True
+3965074,2015,Point Guard,Power Forward,False
+2090000,2015,Center,Point Guard,False
+1418160,2012,Small Forward,Shooting Guard,False
+512000,2003,Small Forward,Forward,False
+1544951,2019,Guard,Guard,True
+473604,2011,Point Guard,Forward,False
+1100000,2000,Guard,Small Forward,False
+40375,2010,Point Guard,Guard,False
+1795015,2019,Point Guard,Guard,False
+1045000,2014,Forward,Point Guard,False
+14000000,2011,Point Guard,Small Forward,False
+10215850,2011,Small Forward,Point Guard,False
+19688000,2016,Center,Power Forward,False
+1898760,2011,Small Forward,Center,False
+2000000,2000,Small Forward,Forward,False
+28928709,2019,Power Forward,Point Guard,False
+14000000,2017,Guard,Point Guard,False
+2652000,2014,Shooting Guard,Point Guard,False
+855189,2012,Center,Forward,False
+4550000,2008,Point Guard,Shooting Guard,False
+2062800,2012,Shooting Guard,Point Guard,False
+7840000,2008,Center,Center,True
+4160000,2003,Power Forward,Small Forward,False
+543471,2017,Guard,Point Guard,False
+1034760,2009,Point Guard,Shooting Guard,False
+1250000,2015,Power Forward,Shooting Guard,False
+788872,2013,Power Forward,Shooting Guard,False
+9000000,2000,Shooting Guard,Power Forward,False
+12000000,2017,Center,Point Guard,False
+8640000,2007,Small Forward,Power Forward,False
+465000,2002,Shooting Guard,Power Forward,False
+458000,2001,Forward,Center,False
+11015850,2012,Small Forward,Shooting Guard,False
+5800000,2007,Center,Point Guard,False
+1210080,2015,Shooting Guard,Center,False
+3000000,2015,Guard,Shooting Guard,False
+4991000,2003,Power Forward,Point Guard,False
+1620564,2020,Power Forward,Power Forward,True
+4458840,2010,Center,Power Forward,False
+1948080,2020,Point Guard,Small Forward,False
+3640200,2020,Shooting Guard,Small Forward,False
+825497,2010,Center,Power Forward,False
+4691390,2006,Shooting Guard,Center,False
+3596000,2004,Shooting Guard,Point Guard,False
+104034,2014,Power Forward,Power Forward,True
+1290960,2020,Shooting Guard,Forward,False
+788872,2013,Shooting Guard,Shooting Guard,True
+6864200,2009,Small Forward,Center,False
+3212000,2005,Small Forward,Center,False
+6053663,2011,Small Forward,Center,False
+398762,2006,Point Guard,Center,False
+885120,2011,Center,Small Forward,False
+1000000,2007,Point Guard,Power Forward,False
+10890000,2012,Center,Shooting Guard,False
+3410284,2018,Center,Shooting Guard,False
+27504630,2020,Center,Center,True
+17469565,2019,Center,Power Forward,False
+854389,2013,Power Forward,Center,False
+4400000,2002,Center,Center,True
+948163,2015,Center,Shooting Guard,False
+16105000,2003,Center,Power Forward,False
+1069509,2013,Small Forward,Shooting Guard,False
+6031800,2010,Point Guard,Point Guard,True
+874636,2017,Center,Guard,False
+6392760,2020,Point Guard,Point Guard,True
+14878000,2014,Power Forward,Center,False
+10500000,2018,Small Forward,Power Forward,False
+11483254,2017,Guard,Shooting Guard,False
+3340920,2014,Power Forward,Small Forward,False
+12045000,2002,Shooting Guard,Point Guard,False
+4000000,2007,Point Guard,Center,False
+7578000,2001,Small Forward,Point Guard,False
+473604,2011,Point Guard,Forward,False
+1500000,2013,Forward,Point Guard,False
+17000000,2018,Shooting Guard,Point Guard,False
+5720000,2004,Point Guard,Center,False
+4500000,2001,Forward,Small Forward,False
+5318000,2000,Power Forward,Center,False
+12500000,2017,Point Guard,Guard,False
+1620564,2020,Point Guard,Power Forward,False
+3750000,2011,Point Guard,Forward,False
+3500000,2012,Guard,Shooting Guard,False
+7000000,2016,Point Guard,Power Forward,False
+687456,2008,Shooting Guard,Point Guard,False
+4344000,2010,Small Forward,Small Forward,True
+7128000,2015,Power Forward,Guard,False
+38194,2012,Center,Guard,False
+4799108,2006,Power Forward,Center,False
+3500000,2010,Shooting Guard,Power Forward,False
+1033000,2003,Shooting Guard,Guard,False
+855189,2012,Shooting Guard,Forward,False
+2146000,2008,Center,Shooting Guard,False
+15501000,2016,Shooting Guard,Shooting Guard,True
+412718,2007,Shooting Guard,Shooting Guard,True
+3500000,2020,Point Guard,Small Forward,False
+90005,2019,Point Guard,Small Forward,False
+11242666,2010,Small Forward,Shooting Guard,False
+9000000,2008,Center,Center,True
+2500000,2006,Shooting Guard,Shooting Guard,True
+1349383,2019,Forward,Small Forward,False
+7750000,2013,Guard,Center,False
+5357280,2011,Power Forward,Small Forward,False
+2480885,2008,Center,Center,True
+3492720,2014,Center,Shooting Guard,False
+1312611,2018,Power Forward,Guard,False
+15694250,2006,Small Forward,Power Forward,False
+1618520,2020,Small Forward,Shooting Guard,False
+855189,2011,Shooting Guard,Shooting Guard,True
+25434263,2018,Shooting Guard,Center,False
+1897800,2020,Power Forward,Shooting Guard,False
+9600000,2011,Small Forward,Shooting Guard,False
+4375000,2016,Small Forward,Center,False
+2210000,2007,Power Forward,Shooting Guard,False
+1288200,2012,Center,Center,True
+2460000,2003,Point Guard,Center,False
+38199000,2020,Shooting Guard,Point Guard,False
+5239437,2017,Shooting Guard,Guard,False
+1378242,2018,Small Forward,Shooting Guard,False
+12917808,2019,Power Forward,Small Forward,False
+3894240,2014,Shooting Guard,Small Forward,False
+3380160,2007,Point Guard,Point Guard,True
+708640,2012,Forward,Small Forward,False
+8042895,2016,Power Forward,Shooting Guard,False
+1200000,2016,Center,Small Forward,False
+2898000,2017,Shooting Guard,Center,False
+4750000,2019,Power Forward,Center,False
+4822800,2009,Point Guard,Center,False
+641141,2011,Small Forward,Point Guard,False
+19894737,2020,Point Guard,Power Forward,False
+3578947,2016,Point Guard,Shooting Guard,False
+9860000,2003,Small Forward,Power Forward,False
+14000000,2014,Center,Center,True
+1500000,2001,Point Guard,Forward,False
+2445480,2013,Center,Point Guard,False
+1400000,2006,Point Guard,Small Forward,False
+1054389,2013,Power Forward,Center,False
+1212120,2009,Power Forward,Small Forward,False
+490180,2014,Power Forward,Point Guard,False
+32742000,2020,Point Guard,Small Forward,False
+1588231,2020,Guard,Shooting Guard,False
+4930560,2015,Power Forward,Power Forward,True
+3200000,2001,Center,Center,True
+1312611,2018,Point Guard,Guard,False
+2407560,2019,Power Forward,Forward,False
+1584480,2016,Shooting Guard,Point Guard,False
+3616680,2007,Small Forward,Point Guard,False
+199816,2012,Power Forward,Power Forward,True
+15829688,2015,Center,Shooting Guard,False
+8000000,2006,Small Forward,Power Forward,False
+7969537,2019,Power Forward,Point Guard,False
+2242003,2015,Forward,Forward,True
+13500000,2011,Guard,Center,False
+6250000,2002,Center,Power Forward,False
+12800000,2017,Shooting Guard,Point Guard,False
+448762,2006,Shooting Guard,Point Guard,False
+2700000,2011,Point Guard,Center,False
+5500000,2011,Shooting Guard,Shooting Guard,True
+10800000,2011,Shooting Guard,Shooting Guard,True
+2000000,2006,Center,Center,True
+4710000,2012,Small Forward,Center,False
+12051000,2004,Center,Power Forward,False
+4978200,2015,Shooting Guard,Guard,False
+3250000,2002,Power Forward,Point Guard,False
+28299399,2018,Shooting Guard,Point Guard,False
+3377160,2008,Point Guard,Shooting Guard,False
+1304520,2016,Shooting Guard,Center,False
+5381750,2015,Small Forward,Center,False
+736420,2013,Shooting Guard,Shooting Guard,True
+2034120,2019,Small Forward,Center,False
+4205000,2015,Shooting Guard,Small Forward,False
+2421000,2015,Shooting Guard,Guard,False
+1422720,2014,Forward,Shooting Guard,False
+6760524,2011,Center,Shooting Guard,False
+95301,2010,Small Forward,Shooting Guard,False
+237000,2002,Point Guard,Center,False
+3274440,2008,Guard,Power Forward,False
+816482,2015,Guard,Power Forward,False
+490180,2014,Point Guard,Point Guard,True
+5000000,2018,Point Guard,Power Forward,False
+7233333,2006,Small Forward,Shooting Guard,False
+4550000,2009,Shooting Guard,Point Guard,False
+9052460,2009,Power Forward,Shooting Guard,False
+12000000,2005,Power Forward,Small Forward,False
+14087500,2018,Power Forward,Shooting Guard,False
+898310,2020,Center,Small Forward,False
+664209,2007,Small Forward,Center,False
+24806250,2011,Small Forward,Power Forward,False
+1676735,2020,Center,Power Forward,False
+980431,2017,Guard,Power Forward,False
+7727280,2013,Small Forward,Center,False
+3263000,2003,Center,Small Forward,False
+12400000,2019,Guard,Center,False
+3695857,2012,Guard,Shooting Guard,False
+625093,2016,Shooting Guard,Shooting Guard,True
+16440000,2006,Point Guard,Center,False
+2200000,2001,Small Forward,Forward,False
+2732000,2015,Guard,Point Guard,False
+3049920,2014,Center,Power Forward,False
+5625000,2003,Shooting Guard,Point Guard,False
+543471,2018,Guard,Forward,False
+398761,2006,Shooting Guard,Center,False
+13700000,2006,Point Guard,Shooting Guard,False
+854389,2013,Shooting Guard,Center,False
+2333333,2011,Center,Guard,False
+423762,2006,Power Forward,Small Forward,False
+466000,2002,Small Forward,Guard,False
+1529007,2020,Power Forward,Guard,False
+6560640,2019,Shooting Guard,Power Forward,False
+427163,2008,Power Forward,Point Guard,False
+32000,2001,Guard,Point Guard,False
+3100000,2010,Small Forward,Power Forward,False
+4088019,2016,Guard,Forward,False
+9000000,2011,Center,Center,True
+4823621,2017,Center,Shooting Guard,False
+18668431,2013,Point Guard,Small Forward,False
+1512601,2019,Guard,Shooting Guard,False
+9300500,2014,Point Guard,Shooting Guard,False
+2586120,2006,Small Forward,Power Forward,False
+18257750,2008,Shooting Guard,Shooting Guard,True
+6352531,2018,Center,Power Forward,False
+3600000,2005,Point Guard,Shooting Guard,False
+4767000,2020,Power Forward,Power Forward,True
+4809840,2014,Small Forward,Shooting Guard,False
+6500000,2015,Power Forward,Shooting Guard,False
+7540000,2012,Power Forward,Shooting Guard,False
+600491,2013,Small Forward,Shooting Guard,False
+6757913,2015,Small Forward,Shooting Guard,False
+845059,2016,Guard,Power Forward,False
+59820,2019,Point Guard,Center,False
+1720560,2017,Forward,Forward,True
+711517,2009,Center,Point Guard,False
+16500000,2015,Forward,Power Forward,False
+5971363,2012,Small Forward,Forward,False
+2600000,2000,Point Guard,Shooting Guard,False
+19500000,2019,Point Guard,Shooting Guard,False
+8000000,2015,Point Guard,Point Guard,True
+2500000,2007,Center,Small Forward,False
+1378242,2019,Shooting Guard,Small Forward,False
+771123,2006,Power Forward,Point Guard,False
+762195,2012,Center,Guard,False
+5192000,2018,Power Forward,Guard,False
+854389,2013,Center,Center,True
+6270000,2016,Guard,Guard,True
+5000000,2019,Power Forward,Forward,False
+539000,2002,Forward,Small Forward,False
+2644231,2010,Shooting Guard,Forward,False
+15330435,2017,Power Forward,Small Forward,False
+2762500,2008,Center,Center,True
+7000000,2006,Small Forward,Power Forward,False
+4252000,2002,Shooting Guard,Center,False
+6250000,2015,Shooting Guard,Shooting Guard,True
+1477920,2010,Point Guard,Shooting Guard,False
+728000,2000,Forward,Power Forward,False
+13528090,2018,Center,Point Guard,False
+3650000,2010,Power Forward,Shooting Guard,False
+815615,2018,Shooting Guard,Small Forward,False
+6925400,2012,Point Guard,Center,False
+10602667,2009,Small Forward,Shooting Guard,False
+1735000,2004,Center,Shooting Guard,False
+3300000,2018,Point Guard,Small Forward,False
+750000,2006,Center,Power Forward,False
+6210000,2014,Point Guard,Shooting Guard,False
+1713600,2011,Power Forward,Center,False
+6331404,2015,Power Forward,Guard,False
+1080000,2008,Shooting Guard,Center,False
+243000,2001,Point Guard,Forward,False
+4000000,2016,Shooting Guard,Small Forward,False
+600532,2009,Power Forward,Shooting Guard,False
+792377,2013,Power Forward,Power Forward,True
+7500000,2006,Power Forward,Center,False
+11286516,2018,Center,Power Forward,False
+1990000,2010,Center,Shooting Guard,False
+12350000,2014,Center,Guard,False
+2905800,2020,Shooting Guard,Small Forward,False
+389000,2002,Forward,Forward,True
+1990000,2010,Shooting Guard,Shooting Guard,True
+12100000,2015,Center,Point Guard,False
+22116750,2017,Power Forward,Small Forward,False
+1600000,2007,Power Forward,Small Forward,False
+1120920,2015,Guard,Center,False
+874636,2018,Shooting Guard,Power Forward,False
+543471,2018,Power Forward,Forward,False
+7500000,2010,Power Forward,Power Forward,True
+1097880,2007,Point Guard,Shooting Guard,False
+1968120,2009,Power Forward,Point Guard,False
+14983603,2008,Point Guard,Power Forward,False
+1262520,2009,Point Guard,Point Guard,True
+7044000,2003,Power Forward,Small Forward,False
+3850000,2003,Center,Point Guard,False
+3551160,2017,Center,Power Forward,False
+69310,2010,Power Forward,Center,False
+809300,2009,Small Forward,Center,False
+543471,2017,Shooting Guard,Point Guard,False
+473604,2011,Center,Forward,False
+641748,2006,Small Forward,Power Forward,False
+4300000,2016,Forward,Guard,False
+910440,2006,Shooting Guard,Power Forward,False
+1654440,2019,Center,Small Forward,False
+199950,2015,Shooting Guard,Small Forward,False
+3084240,2009,Shooting Guard,Shooting Guard,True
+12289544,2015,Shooting Guard,Center,False
+3272997,2012,Forward,Forward,True
+7300000,2018,Center,Power Forward,False
+1250000,2015,Center,Shooting Guard,False
+1676280,2006,Point Guard,Small Forward,False
+248118,2006,Power Forward,Point Guard,False
+762195,2011,Forward,Point Guard,False
+625000,2002,Point Guard,Small Forward,False
+854389,2013,Guard,Center,False
+4000000,2015,Center,Guard,False
+2775000,2006,Small Forward,Center,False
+4992000,2003,Center,Power Forward,False
+17531000,2005,Shooting Guard,Center,False
+32088932,2019,Power Forward,Small Forward,False
+831000,2002,Small Forward,Small Forward,True
+6854546,2007,Point Guard,Point Guard,True
+1392240,2009,Center,Point Guard,False
+1080480,2007,Center,Center,True
+736420,2010,Center,Shooting Guard,False
+4000000,2008,Small Forward,Point Guard,False
+4692000,2004,Power Forward,Power Forward,True
+4000000,2000,Small Forward,Shooting Guard,False
+3000000,2013,Small Forward,Forward,False
+14693906,2014,Point Guard,Power Forward,False
+457588,2010,Shooting Guard,Shooting Guard,True
+4988000,2000,Center,Center,True
+865000,2002,Shooting Guard,Center,False
+5645400,2018,Power Forward,Center,False
+26153057,2018,Point Guard,Power Forward,False
+5209454,2010,Point Guard,Point Guard,True
+15625000,2020,Point Guard,Small Forward,False
+5333000,2001,Forward,Power Forward,False
+2840000,2013,Power Forward,Small Forward,False
+500000,2014,Point Guard,Power Forward,False
+736420,2010,Center,Shooting Guard,False
+6680000,2000,Point Guard,Point Guard,True
+6000000,2005,Power Forward,Power Forward,True
+1815000,2006,Forward,Center,False
+27739975,2019,Small Forward,Point Guard,False
+980431,2017,Shooting Guard,Power Forward,False
+543471,2017,Guard,Point Guard,False
+1667603,2007,Small Forward,Small Forward,True
+1448490,2015,Power Forward,Shooting Guard,False
+375385,2020,Shooting Guard,Shooting Guard,True
+6000000,2018,Guard,Guard,True
+18907726,2016,Power Forward,Power Forward,True
+9862500,2009,Forward,Guard,False
+2700000,2003,Guard,Point Guard,False
+21666667,2019,Center,Power Forward,False
+1512601,2019,Power Forward,Shooting Guard,False
+6641440,2011,Shooting Guard,Power Forward,False
+1898000,2004,Small Forward,Guard,False
+1542600,2009,Forward,Power Forward,False
+700000,2003,Point Guard,Point Guard,True
+854389,2012,Shooting Guard,Shooting Guard,True
+4250000,2014,Small Forward,Small Forward,True
+12759670,2020,Shooting Guard,Small Forward,False
+2000160,2008,Shooting Guard,Power Forward,False
+1335480,2016,Small Forward,Small Forward,True
+3575761,2010,Shooting Guard,Small Forward,False
+1010040,2006,Shooting Guard,Shooting Guard,True
+512000,2003,Shooting Guard,Forward,False
+2102000,2004,Power Forward,Small Forward,False
+2731714,2020,Shooting Guard,Shooting Guard,True
+664209,2007,Power Forward,Center,False
+2028000,2002,Shooting Guard,Shooting Guard,True
+548000,2001,Guard,Center,False
+22287,2012,Small Forward,Shooting Guard,False
+2096760,2013,Power Forward,Power Forward,True
+99418,2016,Point Guard,Shooting Guard,False
+854389,2013,Center,Center,True
+1670000,2006,Shooting Guard,Small Forward,False
+9900000,2003,Shooting Guard,Power Forward,False
+762195,2011,Small Forward,Point Guard,False
+25467250,2019,Center,Power Forward,False
+8000000,2013,Center,Power Forward,False
+6274935,2006,Center,Point Guard,False
+816482,2015,Point Guard,Power Forward,False
+770610,2008,Point Guard,Point Guard,True
+1100000,2003,Forward,Shooting Guard,False
+5300400,2020,Power Forward,Point Guard,False
+8600000,2012,Guard,Power Forward,False
+2453880,2011,Small Forward,Center,False
+854389,2011,Small Forward,Point Guard,False
+507336,2015,Center,Power Forward,False
+4000000,2009,Center,Small Forward,False
+3202920,2014,Point Guard,Shooting Guard,False
+1358880,2016,Small Forward,Center,False
+4051024,2012,Power Forward,Shooting Guard,False
+38506482,2020,Point Guard,Point Guard,True
+1670000,2006,Power Forward,Small Forward,False
+104494,2012,Point Guard,Small Forward,False
+6226200,2012,Power Forward,Power Forward,True
+2111160,2013,Shooting Guard,Shooting Guard,True
+2500000,2020,Small Forward,Guard,False
+1050000,2000,Center,Small Forward,False
+1620564,2020,Point Guard,Power Forward,False
+915243,2015,Small Forward,Forward,False
+10259375,2020,Center,Shooting Guard,False
+762195,2011,Center,Point Guard,False
+1102680,2006,Point Guard,Shooting Guard,False
+4469160,2020,Power Forward,Power Forward,True
+3007920,2012,Center,Power Forward,False
+14041096,2020,Power Forward,Shooting Guard,False
+3600000,2006,Point Guard,Point Guard,True
+7415730,2013,Center,Point Guard,False
+3500000,2011,Point Guard,Power Forward,False
+29464000,2005,Center,Center,True
+8990000,2002,Small Forward,Shooting Guard,False
+744551,2007,Forward,Point Guard,False
+884293,2014,Shooting Guard,Forward,False
+247991,2017,Forward,Shooting Guard,False
+2800000,2006,Point Guard,Power Forward,False
+4296000,2007,Power Forward,Center,False
+12375000,2003,Power Forward,Shooting Guard,False
+854389,2013,Power Forward,Center,False
+18539130,2020,Power Forward,Center,False
+1800000,2006,Shooting Guard,Center,False
+12950000,2015,Center,Center,True
+762195,2011,Power Forward,Point Guard,False
+5160832,2010,Center,Point Guard,False
+762195,2013,Power Forward,Center,False
+2501070,2007,Forward,Small Forward,False
+2080000,2011,Power Forward,Point Guard,False
+15330435,2017,Center,Small Forward,False
+950000,2017,Center,Point Guard,False
+4456200,2011,Shooting Guard,Power Forward,False
+2478840,2020,Small Forward,Guard,False
+269189,2015,Point Guard,Forward,False
+5000000,2017,Point Guard,Forward,False
+5750000,2004,Point Guard,Center,False
+16453125,2006,Shooting Guard,Point Guard,False
+2399040,2016,Point Guard,Power Forward,False
+5000000,2011,Shooting Guard,Forward,False
+967320,2008,Point Guard,Guard,False
+4983480,2010,Power Forward,Shooting Guard,False
+664209,2007,Point Guard,Center,False
+3105302,2014,Power Forward,Guard,False
+1910000,2009,Point Guard,Small Forward,False
+6889000,2000,Center,Point Guard,False
+1038960,2006,Power Forward,Power Forward,True
+2318280,2017,Power Forward,Power Forward,True
+19014188,2008,Center,Shooting Guard,False
+507336,2015,Center,Power Forward,False
+543471,2018,Center,Forward,False
+4469548,2014,Forward,Shooting Guard,False
+1542000,2003,Small Forward,Power Forward,False
+18776860,2010,Shooting Guard,Power Forward,False
+1310000,2002,Power Forward,Point Guard,False
+2383076,2019,Shooting Guard,Shooting Guard,True
+9133907,2020,Point Guard,Small Forward,False
+4837500,2018,Shooting Guard,Shooting Guard,True
+17000000,2018,Center,Point Guard,False
+2840000,2012,Power Forward,Center,False
+172177,2008,Shooting Guard,Point Guard,False
+854389,2012,Power Forward,Shooting Guard,False
+1188840,2018,Small Forward,Point Guard,False
+15400000,2019,Small Forward,Point Guard,False
+1544951,2018,Point Guard,Point Guard,True
+7700000,2016,Center,Point Guard,False
+17632688,2013,Point Guard,Small Forward,False
+5375760,2013,Point Guard,Guard,False
+1623720,2009,Center,Point Guard,False
+6750000,2009,Power Forward,Point Guard,False
+16407500,2016,Small Forward,Center,False
+525093,2016,Point Guard,Shooting Guard,False
+465000,2002,Power Forward,Power Forward,True
+980431,2018,Point Guard,Power Forward,False
+1474440,2016,Center,Power Forward,False
+1378242,2018,Power Forward,Shooting Guard,False
+2062800,2013,Shooting Guard,Point Guard,False
+4427640,2015,Center,Small Forward,False
+4600000,2012,Small Forward,Power Forward,False
+28000000,2004,Power Forward,Center,False
+14400000,2011,Power Forward,Small Forward,False
+1399507,2013,Center,Power Forward,False
+2525160,2016,Shooting Guard,Point Guard,False
+11227250,2012,Center,Guard,False
+5960160,2017,Center,Point Guard,False
+37457154,2019,Point Guard,Point Guard,True
+5782450,2017,Forward,Power Forward,False
+1178348,2007,Point Guard,Shooting Guard,False
+14000000,2018,Center,Power Forward,False
+1005960,2008,Shooting Guard,Point Guard,False
+7438018,2009,Guard,Small Forward,False
+687456,2008,Power Forward,Point Guard,False
+5225000,2014,Shooting Guard,Shooting Guard,True
+2350820,2014,Forward,Point Guard,False
+181320,2008,Point Guard,Point Guard,True
+7200000,2007,Shooting Guard,Power Forward,False
+845059,2016,Point Guard,Power Forward,False
+1349383,2019,Forward,Small Forward,False
+788872,2013,Shooting Guard,Shooting Guard,True
+13000000,2015,Point Guard,Center,False
+4375000,2001,Forward,Point Guard,False
+7000000,2019,Small Forward,Power Forward,False
+854389,2013,Power Forward,Center,False
+3616072,2009,Shooting Guard,Small Forward,False
+17823000,2012,Small Forward,Guard,False
+687456,2008,Shooting Guard,Point Guard,False
+903111,2020,Shooting Guard,Small Forward,False
+524964,2011,Point Guard,Point Guard,True
+6400000,2013,Forward,Power Forward,False
+3750000,2017,Forward,Small Forward,False
+762195,2012,Power Forward,Guard,False
+6310150,2009,Center,Power Forward,False
+8719320,2020,Point Guard,Point Guard,True
+996240,2010,Point Guard,Center,False
+5632200,2008,Small Forward,Power Forward,False
+4702500,2015,Shooting Guard,Point Guard,False
+6890000,2001,Power Forward,Power Forward,True
+884293,2012,Small Forward,Shooting Guard,False
+7707865,2015,Small Forward,Power Forward,False
+915243,2015,Power Forward,Forward,False
+2487240,2008,Forward,Center,False
+1074169,2016,Center,Small Forward,False
+12250000,2017,Center,Shooting Guard,False
+5400000,2006,Point Guard,Shooting Guard,False
+52014,2009,Power Forward,Point Guard,False
+4250000,2012,Power Forward,Small Forward,False
+19795712,2010,Small Forward,Forward,False
+854389,2013,Small Forward,Center,False
+838464,2019,Shooting Guard,Shooting Guard,True
+14112360,2018,Center,Shooting Guard,False
+473604,2013,Small Forward,Point Guard,False
+980431,2018,Power Forward,Power Forward,True
+1000000,2003,Center,Power Forward,False
+12253780,2018,Shooting Guard,Small Forward,False
+12345680,2020,Point Guard,Guard,False
+591000,2002,Point Guard,Forward,False
+719373,2006,Center,Small Forward,False
+2112480,2017,Point Guard,Center,False
+5127720,2012,Center,Point Guard,False
+8646364,2013,Shooting Guard,Power Forward,False
+854389,2011,Power Forward,Point Guard,False
+5500000,2001,Power Forward,Center,False
+1944000,2008,Point Guard,Power Forward,False
+3206640,2019,Small Forward,Center,False
+861360,2006,Power Forward,Power Forward,True
+375000,2018,Guard,Point Guard,False
+901000,2001,Power Forward,Shooting Guard,False
+1537440,2007,Shooting Guard,Shooting Guard,True
+1887840,2014,Small Forward,Forward,False
+498000,2001,Center,Center,True
+189455,2016,Guard,Shooting Guard,False
+2568360,2015,Center,Point Guard,False
+591000,2002,Small Forward,Forward,False
+700000,2016,Forward,Point Guard,False
+2433334,2017,Guard,Power Forward,False
+22970500,2016,Small Forward,Center,False
+2500000,2006,Power Forward,Shooting Guard,False
+543471,2017,Small Forward,Point Guard,False
+161483,2017,Power Forward,Guard,False
+591000,2002,Point Guard,Forward,False
+980431,2018,Center,Power Forward,False
+5625313,2014,Guard,Point Guard,False
+25244493,2012,Small Forward,Power Forward,False
+660000,2006,Center,Shooting Guard,False
+1547640,2010,Center,Shooting Guard,False
+2475000,2002,Center,Point Guard,False
+4913077,2011,Point Guard,Small Forward,False
+2284800,2020,Small Forward,Center,False
+16460538,2013,Small Forward,Small Forward,True
+774551,2007,Center,Small Forward,False
+3000000,2013,Center,Forward,False
+543471,2017,Power Forward,Point Guard,False
+288000,2001,Small Forward,Center,False
+186656,2011,Point Guard,Point Guard,True
+980431,2017,Shooting Guard,Power Forward,False
+16360094,2008,Small Forward,Power Forward,False
+12000000,2016,Power Forward,Forward,False
+8325000,2001,Point Guard,Center,False
+898310,2020,Shooting Guard,Small Forward,False
+3964320,2011,Guard,Shooting Guard,False
+1645357,2020,Small Forward,Shooting Guard,False
+854389,2012,Power Forward,Shooting Guard,False
+1170960,2016,Forward,Center,False
+473604,2013,Point Guard,Point Guard,True
+2760095,2019,Forward,Small Forward,False
+5994764,2017,Guard,Point Guard,False
+5625000,2003,Small Forward,Point Guard,False
+465000,2002,Guard,Power Forward,False
+3254880,2006,Guard,Power Forward,False
+1990000,2010,Point Guard,Shooting Guard,False
+473604,2011,Shooting Guard,Forward,False
+8333334,2016,Forward,Guard,False
+11250000,2002,Center,Shooting Guard,False
+7000000,2019,Center,Power Forward,False
+1800000,2007,Power Forward,Point Guard,False
+2500000,2019,Guard,Small Forward,False
+1219590,2008,Point Guard,Center,False
+46917,2009,Shooting Guard,Point Guard,False
+862456,2008,Forward,Power Forward,False
+788872,2014,Point Guard,Small Forward,False
+5374320,2017,Power Forward,Shooting Guard,False
+8529386,2020,Shooting Guard,Power Forward,False
+13500000,2012,Power Forward,Center,False
+1238640,2015,Point Guard,Shooting Guard,False
+1618680,2015,Power Forward,Guard,False
+826828,2013,Shooting Guard,Shooting Guard,True
+1750000,2014,Forward,Small Forward,False
+4831461,2015,Shooting Guard,Center,False
+6500000,2008,Point Guard,Center,False
+854389,2013,Small Forward,Center,False
+4662960,2016,Small Forward,Center,False
+2777000,2000,Center,Small Forward,False
+8000000,2012,Small Forward,Shooting Guard,False
+1087680,2008,Point Guard,Shooting Guard,False
+719373,2006,Power Forward,Small Forward,False
+6364400,2007,Point Guard,Power Forward,False
+8000000,2020,Power Forward,Center,False
+733000,2001,Small Forward,Small Forward,True
+1959960,2012,Power Forward,Center,False
+4020000,2013,Shooting Guard,Power Forward,False
+1020960,2011,Small Forward,Small Forward,True
+3000000,2016,Guard,Point Guard,False
+3390000,2001,Forward,Small Forward,False
+6486486,2016,Point Guard,Power Forward,False
+825497,2010,Center,Power Forward,False
+10800000,2001,Power Forward,Center,False
+13150000,2011,Point Guard,Center,False
+4350000,2009,Small Forward,Small Forward,True
+9346153,2020,Shooting Guard,Power Forward,False
+525093,2016,Power Forward,Shooting Guard,False
+398762,2006,Shooting Guard,Center,False
+5643750,2014,Power Forward,Point Guard,False
+96056,2015,Small Forward,Guard,False
+5150000,2014,Small Forward,Center,False
+3375000,2006,Point Guard,Small Forward,False
+125636,2008,Power Forward,Small Forward,False
+854389,2011,Power Forward,Point Guard,False
+1987320,2015,Power Forward,Small Forward,False
+915243,2015,Center,Forward,False
+3250000,2013,Small Forward,Point Guard,False
+3445947,2015,Small Forward,Forward,False
+2058000,2006,Shooting Guard,Center,False
+850000,2010,Center,Center,True
+1011360,2008,Small Forward,Point Guard,False
+5475113,2012,Shooting Guard,Small Forward,False
+762195,2013,Center,Center,True
+7464912,2020,Forward,Shooting Guard,False
+854389,2012,Power Forward,Shooting Guard,False
+1404960,2012,Power Forward,Shooting Guard,False
+1569360,2018,Guard,Center,False
+7643979,2017,Center,Power Forward,False
+316000,2001,Small Forward,Center,False
+9780937,2010,Shooting Guard,Small Forward,False
+18000000,2020,Center,Power Forward,False
+316000,2001,Power Forward,Center,False
+2637720,2016,Power Forward,Point Guard,False
+19000000,2019,Point Guard,Point Guard,True
+1800000,2017,Center,Guard,False
+2700000,2003,Point Guard,Point Guard,True
+854389,2013,Point Guard,Center,False
+3567096,2011,Center,Center,True
+711517,2009,Power Forward,Point Guard,False
+3280997,2010,Small Forward,Power Forward,False
+358107,2008,Center,Point Guard,False
+7000000,2018,Center,Shooting Guard,False
+8500000,2011,Center,Point Guard,False
+854389,2013,Center,Center,True
+1300000,2002,Power Forward,Point Guard,False
+11227000,2018,Shooting Guard,Power Forward,False
+4956818,2009,Shooting Guard,Shooting Guard,True
+770610,2008,Small Forward,Point Guard,False
+788872,2014,Center,Small Forward,False
+6322320,2011,Power Forward,Small Forward,False
+650000,2012,Center,Point Guard,False
+280192,2012,Small Forward,Point Guard,False
+10924138,2013,Small Forward,Center,False
+2051000,2002,Small Forward,Center,False
+591000,2002,Point Guard,Forward,False
+4500000,2009,Center,Shooting Guard,False
+2333334,2006,Guard,Shooting Guard,False
+4328000,2018,Shooting Guard,Point Guard,False
+2059000,2000,Power Forward,Power Forward,True
+23112004,2018,Small Forward,Small Forward,True
+12455000,2007,Center,Center,True
+6200000,2009,Point Guard,Power Forward,False
+13000000,2019,Small Forward,Small Forward,True
+3075880,2015,Shooting Guard,Small Forward,False
+8653847,2019,Shooting Guard,Power Forward,False
+980431,2017,Power Forward,Power Forward,True
+874636,2017,Point Guard,Guard,False
+981084,2015,Shooting Guard,Center,False
+2900000,2002,Center,Power Forward,False
+15032144,2012,Small Forward,Shooting Guard,False
+1900200,2010,Small Forward,Point Guard,False
+8000000,2013,Small Forward,Power Forward,False
+5293080,2012,Shooting Guard,Small Forward,False
+2063520,2020,Small Forward,Guard,False
+5628000,2017,Forward,Center,False
+960840,2007,Center,Point Guard,False
+4500000,2012,Forward,Center,False
+13668750,2013,Shooting Guard,Power Forward,False
+13219250,2017,Center,Shooting Guard,False
+14728844,2015,Shooting Guard,Point Guard,False
+6300000,2008,Point Guard,Point Guard,True
+1159680,2016,Guard,Shooting Guard,False
+12375000,2003,Center,Shooting Guard,False
+22116750,2017,Center,Small Forward,False
+895248,2006,Shooting Guard,Point Guard,False
+75000,2017,Shooting Guard,Shooting Guard,True
+316000,2001,Center,Center,True
+9945000,2011,Center,Shooting Guard,False
+6300000,2012,Power Forward,Small Forward,False
+3135000,2012,Small Forward,Small Forward,True
+2227333,2013,Point Guard,Shooting Guard,False
+12364000,2007,Power Forward,Small Forward,False
+3526440,2014,Forward,Center,False
+788872,2014,Forward,Small Forward,False
+2700000,2002,Shooting Guard,Point Guard,False
+716043,2015,Forward,Shooting Guard,False
+5348007,2020,Point Guard,Point Guard,True
+4767000,2020,Center,Power Forward,False
+874636,2018,Power Forward,Power Forward,True
+3500000,2017,Forward,Shooting Guard,False
+1118760,2010,Shooting Guard,Guard,False
+1260360,2013,Point Guard,Center,False
+770610,2008,Power Forward,Point Guard,False
+10500000,2003,Center,Power Forward,False
+915243,2015,Guard,Forward,False
+849000,2001,Small Forward,Point Guard,False
+3780000,2003,Guard,Small Forward,False
+591000,2002,Guard,Forward,False
+1471382,2018,Point Guard,Shooting Guard,False
+641748,2006,Power Forward,Power Forward,True
+1765000,2011,Small Forward,Forward,False
+5163636,2010,Shooting Guard,Point Guard,False
+7945000,2018,Point Guard,Shooting Guard,False
+854389,2012,Center,Shooting Guard,False
+10344900,2006,Shooting Guard,Point Guard,False
+465000,2002,Center,Power Forward,False
+11679,2011,Center,Shooting Guard,False
+4100000,2012,Small Forward,Shooting Guard,False
+1100602,2016,Center,Forward,False
+2483040,2017,Small Forward,Forward,False
+797581,2009,Power Forward,Shooting Guard,False
+7800000,2004,Power Forward,Small Forward,False
+1312611,2018,Center,Guard,False
+7500000,2012,Power Forward,Shooting Guard,False
+1592400,2006,Power Forward,Shooting Guard,False
+1033342,2010,Small Forward,Small Forward,True
+2500000,2017,Shooting Guard,Forward,False
+2819880,2010,Shooting Guard,Power Forward,False
+5854000,2010,Power Forward,Center,False
+7975000,2003,Center,Small Forward,False
+5828089,2007,Small Forward,Point Guard,False
+10333334,2009,Point Guard,Power Forward,False
+3750000,2012,Shooting Guard,Center,False
+1005000,2014,Guard,Center,False
+2332800,2010,Power Forward,Center,False
+543471,2017,Point Guard,Point Guard,True
+4826160,2017,Center,Shooting Guard,False
+24107258,2019,Small Forward,Small Forward,True
+8083000,2013,Small Forward,Power Forward,False
+18314532,2017,Shooting Guard,Guard,False
+762195,2012,Power Forward,Guard,False
+3285120,2020,Small Forward,Small Forward,True
+3240000,2002,Center,Shooting Guard,False
+12433735,2014,Power Forward,Guard,False
+9000000,2017,Shooting Guard,Small Forward,False
+9817000,2005,Shooting Guard,Small Forward,False
+1416842,2020,Small Forward,Guard,False
+1836000,2000,Shooting Guard,Point Guard,False
+815615,2018,Shooting Guard,Small Forward,False
+543471,2018,Shooting Guard,Forward,False
+473604,2012,Shooting Guard,Point Guard,False
+800000,2008,Power Forward,Small Forward,False
+1893840,2009,Power Forward,Small Forward,False
+2900000,2007,Center,Center,True
+8800000,2002,Small Forward,Power Forward,False
+12000000,2006,Shooting Guard,Center,False
+9704545,2015,Center,Point Guard,False
+854389,2012,Power Forward,Shooting Guard,False
+9500000,2013,Shooting Guard,Power Forward,False
+13270000,2011,Forward,Power Forward,False
+1100602,2016,Shooting Guard,Forward,False
+1378242,2019,Guard,Small Forward,False
+797581,2009,Shooting Guard,Shooting Guard,True
+16000000,2019,Shooting Guard,Center,False
+915243,2015,Power Forward,Forward,False
+1191480,2017,Forward,Small Forward,False
+3840000,2008,Point Guard,Power Forward,False
+815615,2018,Forward,Small Forward,False
+13843156,2006,Forward,Power Forward,False
+1306920,2011,Power Forward,Center,False
+23034375,2010,Small Forward,Center,False
+947276,2016,Forward,Forward,True
+1241000,2002,Small Forward,Small Forward,True
+980431,2017,Center,Power Forward,False
+3210840,2017,Point Guard,Shooting Guard,False
+1416852,2020,Power Forward,Shooting Guard,False
+23114067,2019,Small Forward,Center,False
+5058198,2014,Shooting Guard,Power Forward,False
+1485000,2011,Point Guard,Point Guard,True
+6434520,2019,Point Guard,Power Forward,False
+1544951,2019,Center,Guard,False
+980431,2017,Power Forward,Power Forward,True
+20099189,2019,Point Guard,Power Forward,False
+2894160,2019,Power Forward,Center,False
+4000000,2014,Center,Guard,False
+2000000,2012,Forward,Point Guard,False
+12500000,2019,Forward,Center,False
+4680000,2001,Guard,Small Forward,False
+412718,2007,Small Forward,Shooting Guard,False
+869094,2019,Guard,Power Forward,False
+3196050,2007,Point Guard,Small Forward,False
+5300000,2017,Power Forward,Small Forward,False
+1391160,2016,Power Forward,Shooting Guard,False
+1029389,2012,Small Forward,Point Guard,False
+3487440,2006,Point Guard,Point Guard,True
+600000,2011,Shooting Guard,Power Forward,False
+4099920,2012,Shooting Guard,Shooting Guard,True
+3500000,2020,Center,Small Forward,False
+1416852,2020,Guard,Shooting Guard,False
+4000000,2009,Center,Small Forward,False
+17868853,2019,Shooting Guard,Shooting Guard,True
+221136,2011,Power Forward,Power Forward,True
+14487000,2005,Shooting Guard,Power Forward,False
+1600000,2011,Center,Shooting Guard,False
+1983454,2009,Shooting Guard,Shooting Guard,True
+8000000,2016,Point Guard,Shooting Guard,False
+1027424,2012,Center,Point Guard,False
+14983603,2009,Point Guard,Center,False
+1768653,2015,Center,Center,True
+12100000,2014,Center,Power Forward,False
+8120000,2001,Small Forward,Shooting Guard,False
+6050000,2013,Forward,Small Forward,False
+3625000,2004,Center,Point Guard,False
+1700000,2006,Center,Small Forward,False
+1042584,2020,Guard,Point Guard,False
+5722500,2014,Power Forward,Point Guard,False
+5486250,2012,Power Forward,Small Forward,False
+2000000,2015,Shooting Guard,Small Forward,False
+4235000,2009,Power Forward,Point Guard,False
+711517,2009,Small Forward,Point Guard,False
+4200000,2011,Point Guard,Shooting Guard,False
+2777000,2003,Shooting Guard,Guard,False
+158588,2014,Shooting Guard,Power Forward,False
+6429151,2010,Small Forward,Point Guard,False
+1200000,2001,Forward,Forward,True
+1064400,2014,Shooting Guard,Point Guard,False
+550000,2009,Center,Small Forward,False
+5900400,2006,Center,Small Forward,False
+12250000,2017,Power Forward,Shooting Guard,False
+587000,2003,Small Forward,Center,False
+4700000,2010,Shooting Guard,Power Forward,False
+14520000,2008,Shooting Guard,Power Forward,False
+10203755,2017,Guard,Shooting Guard,False
+2750000,2016,Point Guard,Center,False
+3700000,2012,Power Forward,Shooting Guard,False
+591000,2002,Forward,Forward,True
+5215000,2007,Power Forward,Center,False
+1729000,2003,Guard,Small Forward,False
+744551,2007,Point Guard,Point Guard,True
+12250000,2010,Center,Shooting Guard,False
+4345000,2016,Guard,Center,False
+3300000,2012,Small Forward,Forward,False
+10130000,2001,Center,Small Forward,False
+2000000,2007,Center,Center,True
+1318920,2006,Small Forward,Forward,False
+473604,2013,Point Guard,Point Guard,True
+44495,2018,Guard,Guard,True
+2225000,2011,Power Forward,Shooting Guard,False
+6481482,2020,Center,Power Forward,False
+283367,2015,Guard,Center,False
+500000,2012,Point Guard,Shooting Guard,False
+825497,2012,Point Guard,Shooting Guard,False
+6333333,2017,Shooting Guard,Power Forward,False
+115344,2017,Power Forward,Point Guard,False
+788872,2014,Small Forward,Small Forward,True
+11000000,2013,Shooting Guard,Point Guard,False
+4493500,2013,Point Guard,Center,False
+980431,2018,Guard,Power Forward,False
+3308000,2001,Point Guard,Center,False
+4080915,2013,Shooting Guard,Shooting Guard,True
+2360880,2006,Power Forward,Shooting Guard,False
+11375000,2008,Point Guard,Shooting Guard,False
+1975000,2013,Small Forward,Small Forward,True
+1000000,2016,Power Forward,Power Forward,True
+3892500,2010,Small Forward,Shooting Guard,False
+788872,2013,Small Forward,Shooting Guard,False
+1768000,2009,Power Forward,Small Forward,False
+3090000,2013,Point Guard,Guard,False
+788872,2012,Small Forward,Small Forward,True
+684000,2000,Small Forward,Power Forward,False
+11241218,2017,Small Forward,Shooting Guard,False
+1811040,2017,Guard,Guard,True
+1227985,2015,Small Forward,Shooting Guard,False
+2901241,2011,Power Forward,Point Guard,False
+2225000,2004,Power Forward,Center,False
+9638554,2013,Center,Small Forward,False
+3100667,2009,Power Forward,Shooting Guard,False
+2880000,2001,Guard,Center,False
+854389,2012,Small Forward,Shooting Guard,False
+7400000,2008,Small Forward,Power Forward,False
+815615,2018,Shooting Guard,Small Forward,False
+1050961,2017,Guard,Shooting Guard,False
+980431,2018,Point Guard,Power Forward,False
+316000,2001,Point Guard,Center,False
+854389,2012,Shooting Guard,Shooting Guard,True
+1471382,2018,Power Forward,Shooting Guard,False
+854389,2012,Shooting Guard,Shooting Guard,True
+10000000,2014,Center,Point Guard,False
+854389,2012,Small Forward,Shooting Guard,False
+252016,2013,Point Guard,Shooting Guard,False
+4000000,2001,Power Forward,Guard,False
+736420,2010,Shooting Guard,Shooting Guard,True
+17826150,2018,Shooting Guard,Shooting Guard,True
+915852,2012,Center,Power Forward,False
+725000,2015,Center,Shooting Guard,False
+2000032,2012,Point Guard,Point Guard,True
+6268675,2016,Power Forward,Guard,False
+4060000,2012,Power Forward,Shooting Guard,False
+1037000,2002,Center,Shooting Guard,False
+2077000,2015,Point Guard,Point Guard,True
+5138430,2016,Shooting Guard,Power Forward,False
+4500000,2004,Point Guard,Small Forward,False
+6750000,2008,Small Forward,Point Guard,False
+4062000,2015,Shooting Guard,Center,False
+1054000,2012,Center,Small Forward,False
+2900000,2008,Shooting Guard,Shooting Guard,True
+2038206,2015,Forward,Point Guard,False
+3389400,2020,Power Forward,Shooting Guard,False
+947276,2016,Power Forward,Forward,False
+1471382,2018,Small Forward,Shooting Guard,False
+3454500,2018,Guard,Small Forward,False
+2630000,2009,Power Forward,Point Guard,False
+854389,2011,Guard,Point Guard,False

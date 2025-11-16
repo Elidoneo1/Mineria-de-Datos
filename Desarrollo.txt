@@ -56,3 +56,13 @@ que eran williams smith, johnson
 tambien vimos distintos terminos de basket y varios casos de jugadores quecomparten
 apellidos pero es posiblemente mera coincidencia
 Ha ocurrido que papas e hijos juean en la liga pero es raro. o hermano tambien.
+
+El tema es que lo estamos dividiendo por posicion, año, etc 
+y muchas veces eso no tiene tanta relevancia como puede tener importancia
+los stats de cada jugador
+o el plus minus rating que es practcamente la mejor metrica para calcular que
+tanto mejora un equipo con xs persona fuera o dentro
+
+Hay jugadores que si estan en la cancha pueden meter 30 puntos que es increible pero si
+el otro equipo termina metiendo mas puntos que su equipo quizas no sea mejor tener a ese 
+jugador dentro. Por muy excepcional ofensivamente que sea es deporte de equipo.

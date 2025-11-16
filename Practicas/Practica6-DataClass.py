@@ -16,7 +16,6 @@ sns.set_palette("husl")
 np.random.seed(42)
 
 # PROBLEMA 1: CLASIFICACIÓN DE POSICIONES (Position)
-
 print("=" * 80)
 print("PROBLEMA 1: CLASIFICACIÓN DE POSICIONES DE JUGADORES")
 print("=" * 80)
@@ -26,8 +25,19 @@ df = pd.read_csv("edited-salaries.csv")
 print(f"Dataset shape: {df.shape}")
 print(f"Posiciones únicas: {df['position'].unique()}")
 
+# SOLUCIÓN: LIMPIAR DATOS ANTES DE PROCESAR
+print(f"\n📊 LIMPIEZA DE DATOS:")
+print(f"Filas originales: {len(df)}")
+
+# 1. Eliminar filas con position NaN
+df_clean = df.dropna(subset=['position']).copy()
+print(f"Filas después de eliminar NaN en position: {len(df_clean)}")
+
+# 2. Verificar que no queden NaN
+print(f"¿Quedan NaN en position?: {df_clean['position'].isna().sum()}")
+
 # Preparar datos para clasificación de posiciones
-df_position = df[['salary', 'season', 'position']].copy()
+df_position = df_clean[['salary', 'season', 'position']].copy()
 
 # Codificar la variable objetivo (position)
 le_position = LabelEncoder()

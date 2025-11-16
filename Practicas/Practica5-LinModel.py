@@ -124,18 +124,30 @@ X3 = pd.concat([df_corr[['season']], position_dummies], axis=1)
 
 # Remover una categoría para evitar multicolinealidad
 X3 = X3.drop('pos_Center', axis=1)  # Center como referencia
-X3_sm = sm.add_constant(X3)
 
-model3_sm = sm.OLS(y, X3_sm).fit()
-print(model3_sm.summary())
+# CONVERTIR A NUMÉRICO Y ASEGURAR TIPOS CORRECTOS <- AGREGAR ESTO
+X3 = X3.astype(float)  # Asegurar que todos sean numéricos
+X3_sm = sm.add_constant(X3.astype(float))  # Asegurar tipos numéricos
 
-model3_sk = LinearRegression()
-model3_sk.fit(X3, y)
+# Asegurar que y también sea numérico
+y_numeric = y.astype(float)
 
-y_pred3 = model3_sk.predict(X3)
-r2_3 = r2_score(y, y_pred3)
-
-print(f"\nR² Score Modelo con Dummies: {r2_3:.4f}")
+try:
+    model3_sm = sm.OLS(y_numeric, X3_sm).fit()
+    print(model3_sm.summary())
+    
+    model3_sk = LinearRegression()
+    model3_sk.fit(X3, y_numeric)
+    
+    y_pred3 = model3_sk.predict(X3)
+    r2_3 = r2_score(y_numeric, y_pred3)
+    
+    print(f"\nR² Score Modelo con Dummies: {r2_3:.4f}")
+    
+except Exception as e:
+    print(f"Error en modelo 3: {e}")
+    print("Continuando con los otros modelos...")
+    r2_3 = 0  # Valor por defecto
 
 # GRÁFICOS DEL MODELO
 print("\n" + "="*80)
@@ -302,24 +314,20 @@ print("- Practica5/model_diagnostics.png")
 
 # INTERPRETACIÓN FINAL
 print("\n" + "="*80)
-print("INTERPRETACIÓN DE RESULTADOS")
+print("INTERPRETACIÓN DE RESULTADOS - ANÁLISIS CRÍTICO")
 print("="*80)
 
-print(f"\nMEJOR MODELO: Season + Position (R² = {r2_1:.3f})")
-print(f"Este modelo explica el {r2_1*100:.1f}% de la variabilidad en los salarios")
+print(f"\nHALLAZGOS PRINCIPALES:")
+print(f"• Los modelos son ESTADÍSTICAMENTE SIGNIFICATIVOS (p < 0.001)")
+print(f"• Los salarios aumentan aproximadamente ${model1_sk.coef_[0]:.0f} por año")
+print(f"• La posición tiene un efecto pequeño pero significativo en el salario")
 
-print("\nCOEFICIENTES DEL MODELO:")
-coef_df = pd.DataFrame({
-    'Variable': ['Intercepto', 'Season', 'Position_Encoded'],
-    'Coeficiente': [model1_sk.intercept_] + model1_sk.coef_.tolist()
-})
-print(tabulate(coef_df, headers='keys', tablefmt='orgtbl'))
+print(f"\nLIMITACIONES IDENTIFICADAS:")
+print(f"• Los modelos explican solo el {r2_1*100:.1f}% de la variabilidad")
+print(f"• Existe MULTICOLINEALIDAD (Condition Number muy alto)")
+print(f"• Los residuales NO son normales (Durbin-Watson = {dw_stat:.3f})")
 
-print(f"\nINTERPRETACIÓN:")
-print(f"- Por cada año adicional, el salario aumenta en ${model1_sk.coef_[0]:.2f}")
-print(f"- La posición tiene un efecto significativo en el salario")
-print(f"- El intercepto representa el salario base esperado")
-
-print("\n" + "="*80)
-print("¡MODELOS LINEALES COMPLETADOS!")
-print("="*80)
+print(f"\nRECOMENDACIONES:")
+print(f"• Se necesitan MÁS VARIABLES para mejorar el modelo")
+print(f"• Considerar transformaciones logarítmicas del salario")
+print(f"• Incluir variables como: experiencia, estadísticas de juego, logros")

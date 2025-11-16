@@ -1,0 +1,4 @@
+Model,R2_Score,Features,Coefficients
+Season Only,0.012258191782828054,season,1
+Season + Position (Encoded),0.012855283654924943,season + position_encoded,2
+Season + Position (Dummies),0.021614367600165663,season + position_dummies,7
