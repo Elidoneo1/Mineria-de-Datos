@@ -66,3 +66,6 @@ tanto mejora un equipo con xs persona fuera o dentro
 Hay jugadores que si estan en la cancha pueden meter 30 puntos que es increible pero si
 el otro equipo termina metiendo mas puntos que su equipo quizas no sea mejor tener a ese 
 jugador dentro. Por muy excepcional ofensivamente que sea es deporte de equipo.
+
+Hay metricas mas rebuscadas para medir la importancia de cada jugador y no siempre 
+resulta intuitivo cuanto gana un jugador comparandolo a cuando aporta a un equipo
