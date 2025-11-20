@@ -45,3 +45,14 @@ newpos = position.map(categorize)
 df['position'] = newpos
 df.to_csv('edited-salaries.csv',index = False)
 print(df.head())
+
+# Normalizar salario usando Z-score por temporada
+# Esto nos dice qué tan alto es el salario comparado con OTROS jugadores de ESE MISMO AÑO
+def get_zscore(x):
+    return (x - x.mean()) / x.std()
+
+df['salary_zscore'] = df.groupby('season')['salary'].transform(get_zscore)
+
+# O calcular el porcentaje del tope salarial (aproximado usando el máximo de ese año)
+df['max_salary_year'] = df.groupby('season')['salary'].transform('max')
+df['salary_share'] = df['salary'] / df['max_salary_year']
