@@ -1,0 +1,84 @@
+Practica 1:
+Preparar el dataset
+
+Ocupo checar nulos y missings. Tambien checar outliers
+Normalizar posiciones de jugador y los nombres de los equipos a uno solo.
+Crear nuevas variables
+Tener un date time en vez de temporadas de nba
+
+AAAAAA no hice commit del primer rexto de desarrollo y ahora este doc esta vacio. LLegando a mi casa subo el desarrollo 
+completito. Ahorita continuamos las practicas
+
+En la act 4 manejamos anova/kruskal-wallis
+en salario por posiscion
+
+tambien el salio por año con anova/kruskal-wallis
+el t test entre equipos del oeste y este. Estos estan dividos por la mitad osea 15
+y 15
+
+verificamos noramlidad y homogeneidad
+y hay los posthoc tests
+
+Con la practica 5 mmmm 
+Esta el heatmap visual, matriz de correlacion y correlaciones individales con alores p
+
+Los modelos lineales fueron
+Salary season+position
+Salary season
+Salary season + position_dummies
+
+ya de esto sacamos el r al cuadrado score para cada modelo el r2 ajusado
+MSE Y RMSE gracias a dios por inteligencia artificial que ahi aprendimos de este tema
+Anaalisis de residuales y pruebas de nnormalidad
+
+La practca 6 
+vimos el accuracy para posiciones
+acurracy para rangos
+un mejor k
+tambien un buen resumen de modelos
+4 graficos de Anaalisis
+y predicciones d epos y rank
+
+Practica 7 clustering
+usamos el metodo del codo
+fue clustering por salario y año
+por pisiciones
+multidimensional
+
+usualmento los forward y centers salian con mas salario
+en esos años en la nba todos querian un centro dominante como shaq por lo
+que no me parece raro que los centros fueran bien pagados
+
+prac 8 forecasting
+dos modelos que era el simple de tendencia y otro mas complicado con lags y medias 
+movile
+El modelo avanzado fue mejor
+centros y forward seguian mostrando crecimiento salariasl
+todos incrementaban pero eventualmento mas lento
+viendo los contratos de hoy en dia comprobamos que esta erroneo ya 
+que son ridiculos los salarios que ahra se ven en la nba
+
+practica 9 
+aqui vimos cosas quizas no tan serias como los apellidos mas comunes en la nba
+que eran williams smith, johnson
+tambien vimos distintos terminos de basket y varios casos de jugadores quecomparten
+apellidos pero es posiblemente mera coincidencia
+Ha ocurrido que papas e hijos juean en la liga pero es raro. o hermano tambien.
+
+El tema es que lo estamos dividiendo por posicion, año, etc 
+y muchas veces eso no tiene tanta relevancia como puede tener importancia
+los stats de cada jugador
+o el plus minus rating que es practcamente la mejor metrica para calcular que
+tanto mejora un equipo con xs persona fuera o dentro
+
+Hay jugadores que si estan en la cancha pueden meter 30 puntos que es increible pero si
+el otro equipo termina metiendo mas puntos que su equipo quizas no sea mejor tener a ese 
+jugador dentro. Por muy excepcional ofensivamente que sea es deporte de equipo.
+
+Hay metricas mas rebuscadas para medir la importancia de cada jugador y no siempre 
+resulta intuitivo cuanto gana un jugador comparandolo a cuando aporta a un equipo
+
+En la nba es muy importante saber en que año entro cual jugador y quien tiene mas antiguedad que otro. 
+Antes un jugador del 2005 en su decimo año ero igual que un jugador en el 2005 que era rookie.
+Tambien normalmente los jugadores nuevos o rookies que llegan a tener un contrato de 4 años
+son los años con paga mas baja por mucho.
