@@ -58,6 +58,19 @@ df['high_earner'] = df.groupby('season')['salary'].transform(
     lambda x: x > x.quantile(0.75)
 ).astype(int)
 
+# Ordenamos por jugador y año
+df = df.sort_values(['name', 'season'])
+
+# Creamos un contador acumulativo por nombre de jugador
+# Esto nos dice si es su 1er año registrado, el 2do, etc.
+df['experience_years'] = df.groupby('name').cumcount()
+
+#"Contrato Rookie" (primeros 4 años suelen ser baratos)
+df['is_rookie_contract'] = (df['experience_years'] < 4).astype(int)
+
+#"Veterano" (más de 10 años)
+df['is_veteran'] = (df['experience_years'] >= 10).astype(int)
+
 # 7. Guardar
 print("Guardando archivo procesado: nba_processed.csv")
 df.to_csv('nba_processed.csv', index=False)

@@ -77,3 +77,8 @@ jugador dentro. Por muy excepcional ofensivamente que sea es deporte de equipo.
 
 Hay metricas mas rebuscadas para medir la importancia de cada jugador y no siempre 
 resulta intuitivo cuanto gana un jugador comparandolo a cuando aporta a un equipo
+
+En la nba es muy importante saber en que año entro cual jugador y quien tiene mas antiguedad que otro. 
+Antes un jugador del 2005 en su decimo año ero igual que un jugador en el 2005 que era rookie.
+Tambien normalmente los jugadores nuevos o rookies que llegan a tener un contrato de 4 años
+son los años con paga mas baja por mucho.
